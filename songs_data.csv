@@ -1,0 +1,401 @@
+,name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,emotion
+0,2002,Speak Your Mind (Deluxe),Anne-Marie,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,84,186986,0.697,0.0372,0.683,0.0,0.137,0.603,-2.881,0.117,96.133,1,4,happy
+1,Can't Get You out of My Head,Step Back in Time: The Definitive Collection,Kylie Minogue,7dxiorC4Um7Ph0fAPsVn76,2019-06-28,39,230640,0.766,0.0263,0.563,0.683,0.115,0.964,-7.516,0.0339,126.007,9,4,happy
+2,Young Hearts Run Free,Happy Songs,Various Artists,63W0atr5JTxjGThYpBE94V,2020-05-01,27,249293,0.646,0.162,0.693,5.79e-06,0.263,0.825,-8.08,0.0436,115.514,7,4,happy
+3,Stand by Me,Don't Play That Song,Ben E. King,7jmHyHMEqm9MJWiMAneF05,1962,63,175493,0.632,0.428,0.232,4.95e-06,0.215,0.673,-12.326,0.0318,119.136,9,4,happy
+4,Shape of You,÷ (Deluxe),Ed Sheeran,7qiZfU4dY1lWllzX7mPBI3,2017-03-03,86,233712,0.825,0.581,0.652,0.0,0.0931,0.931,-3.183,0.0802,95.977,1,4,happy
+5,Return of the Mack,Happy Songs,Various Artists,7ybisKSjbqxcT6H5B2Hykm,2020-05-01,26,213093,0.715,0.00631,0.834,0.0,0.164,0.604,-5.379,0.109,95.487,2,4,happy
+6,Crazy,St. Elsewhere,Gnarls Barkley,1vxw6aYJls2oq3gW0DujAo,2006-04-24,77,177466,0.855,0.0505,0.587,0.00714,0.105,0.64,-4.589,0.0336,111.97,8,4,happy
+7,Hold My Hand,I Cry When I Laugh,Jess Glynne,3iAD903jI8tHlM6Cn1zMax,2015,54,227343,0.642,0.00159,0.823,0.0,0.0776,0.431,-5.717,0.0289,122.977,0,4,happy
+8,Dreams,TikTok Songs Viral Hits,Various Artists,57hPgbYiZvoU8AXZ8ZJlud,2021-02-10,26,257799,0.828,0.0644,0.492,0.00428,0.128,0.789,-9.745,0.0276,120.148,0,4,happy
+9,Head & Heart (feat. MNEK),Head & Heart (feat. MNEK),Joel Corry,6cx06DFPPHchuUAcTxznu9,2020-07-03,91,166028,0.734,0.168,0.874,1.14e-05,0.0489,0.905,-3.158,0.0662,122.953,8,4,happy
+10,This Is Me,The Greatest Showman (Original Motion Picture Soundtrack),Various Artists,45aBsnKRWUzhwbcqOJLwfe,2017-12-08,78,234706,0.284,0.00583,0.704,0.000115,0.0424,0.1,-7.276,0.186,191.702,2,4,happy
+11,Good as Hell (feat. Ariana Grande) - Remix,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,07Oz5StQ7GRoygNLaXs2pd,2016,76,159011,0.668,0.298,0.892,0.0,0.735,0.478,-3.001,0.0645,95.927,5,4,happy
+12,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,5nujrmhLynf4yMoMtj8AQF,2020-03-27,87,203064,0.702,0.00883,0.825,0.0,0.0674,0.915,-3.787,0.0601,102.977,6,4,happy
+13,Rather Be (feat. Jess Glynne),Rather Be (feat. Jess Glynne),Clean Bandit,3s4U7OHV7gnj42VV72eSZ6,2014-01-17,74,227833,0.799,0.162,0.586,2.03e-06,0.193,0.549,-6.735,0.0377,120.97,11,4,happy
+14,Just the Two of Us (feat. Bill Withers),Anthology,"Grover Washington, Jr.",1ko2lVN0vKGUl9zrU0qSlT,1985,82,237106,0.802,0.572,0.488,0.0598,0.0763,0.624,-9.304,0.0813,95.77,1,4,happy
+15,Everybody Dance,Good Times: The Very Best Of Chic & Sister Sledge,CHIC,2tSzHVPE05bV6mFwm2Tndd,2005,48,247666,0.833,0.00665,0.686,0.000771,0.0959,0.947,-8.735,0.119,128.016,5,4,happy
+16,Pack Up,Happy Songs,Various Artists,6Lwh0zbfF02WkIQkZGgHBw,2020-05-01,27,191026,0.672,0.325,0.809,0.0,0.337,0.88,-5.704,0.0595,133.038,11,4,happy
+17,24K Magic,Happy Songs,Various Artists,4NpbPvaMFiV7PlJGSAbUp1,2020-05-01,27,225983,0.818,0.034,0.804,0.0,0.154,0.634,-4.282,0.0798,106.969,1,4,happy
+18,Respect - 2003 Remaster,Happy Songs,Various Artists,5ghEeDeAOsMASDnM6c94Or,2020-05-01,26,142186,0.744,0.0723,0.611,0.000532,0.0692,0.961,-6.386,0.0333,114.991,0,4,happy
+19,Love Shack - Edit,Happy Songs,Various Artists,2uYADeaqssXkyZtSGYwSXN,2020-05-01,25,257519,0.701,0.142,0.792,1.21e-06,0.764,0.9,-8.644,0.0549,133.451,7,4,happy
+20,Viva La Vida,Happy Songs,Various Artists,04Ao0dL2rZ6PwqU2CAWB9m,2020-05-01,31,242373,0.486,0.0954,0.617,3.23e-06,0.109,0.417,-7.115,0.0287,138.015,5,4,happy
+21,Feel It Still,Happy Songs,Various Artists,6rqsNikKzDmbLxEFLazozT,2020-05-01,26,162092,0.799,0.0427,0.797,7.48e-05,0.0907,0.758,-5.157,0.0624,79.088,1,4,happy
+22,All I Am,Happy Songs,Various Artists,4xEzr10tUVPNj8A0TASnm6,2020-05-01,26,219520,0.742,0.0477,0.643,1.97e-06,0.176,0.525,-5.402,0.0343,122.04,0,4,happy
+23,Smile,Happy Songs,Various Artists,0hn0KAt9nuvjQFtWae2ycx,2020-05-01,25,195053,0.629,0.000838,0.649,7.78e-06,0.296,0.697,-6.005,0.0271,95.479,5,4,happy
+24,New Shoes,Happy Songs,Various Artists,06fxYPQvED2jZuK4PCQBuA,2020-05-01,25,203653,0.748,0.468,0.735,1.1e-05,0.0851,0.856,-8.692,0.0901,150.04,8,4,happy
+25,The Best - Edit,Happy Songs,Various Artists,4RVhSjN8NLu0V7fNK2DXuT,2020-05-01,25,253592,0.68,0.0341,0.701,0.00479,0.114,0.824,-10.46,0.0275,103.789,0,4,happy
+26,Breathless,In Blue,The Corrs,5OQGeJ1ceykovrykZsGhqL,2000-07-17,69,207506,0.607,0.0541,0.82,6.8e-05,0.269,0.768,-7.754,0.0597,126.988,11,4,happy
+27,La Bamba,Happy Songs,Various Artists,0UnUzxrOf1T9n8sAL0HmHk,2020-05-01,25,175760,0.524,0.0868,0.877,0.00334,0.284,0.877,-7.579,0.0552,156.49,0,4,happy
+28,"Good Times - 7"" Edit; 2018 Remaster",The Chic Organization 1977-1979 (2018 Remaster),CHIC,1Ket3P7fn8XF7y3f15rUH8,2018-11-23,26,225746,0.855,0.0945,0.643,5.95e-05,0.165,0.704,-12.03,0.0491,110.099,11,4,happy
+29,I'm Yours,Happy Songs,Various Artists,7xhaeKoTAOe0Uwq2hYq71u,2020-05-01,25,242040,0.698,0.571,0.45,0.0,0.113,0.68,-8.784,0.0442,150.999,11,4,happy
+30,Spinning Around,Happy Songs,Various Artists,4XoCorMBHEJG2iEjb4l7g8,2020-05-01,25,206626,0.757,0.283,0.73,7.67e-05,0.0917,0.67,-5.705,0.0539,120.039,6,4,happy
+31,When Love Takes Over (feat. Kelly Rowland),One More Love (Deluxe),David Guetta,0Wuhqs2vyEfRvLhRVzOAR5,2010-11-25,47,191000,0.675,0.0165,0.862,0.000427,0.169,0.498,-4.614,0.0253,129.967,11,4,happy
+32,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2XU0oxnq2qxCpomAAuJY8K,2019-10-17,88,209438,0.824,0.692,0.588,0.000104,0.149,0.513,-6.4,0.0924,98.027,6,4,happy
+33,Material Girl,Celebration (double disc version),Madonna,22sLuJYcvZOSoLLRYev1s5,2009-09-18,73,240280,0.742,0.333,0.883,7.51e-06,0.0964,0.978,-3.419,0.0329,136.506,0,4,happy
+34,Take on Me,Hunting High and Low,a-ha,2WfaOiMkCvy7F5fcp2zZ8L,1985-06-01,85,225280,0.573,0.018,0.902,0.00125,0.0928,0.876,-7.638,0.054,84.412,6,4,happy
+35,Riptide,Happy Songs,Various Artists,6AzKACkAkfQyP1kdANQP09,2020-05-01,25,204280,0.483,0.436,0.731,0.0,0.151,0.484,-6.696,0.0381,101.654,1,4,happy
+36,Move on Up,Move on Up,Curtis Mayfield,0MHXrqn909p0LRTPsNsGEi,1970,70,165789,0.538,0.417,0.969,0.00154,0.119,0.928,-5.626,0.0906,138.652,11,4,happy
+37,One More Time,Happy Songs,Various Artists,4lVyQXQgdxPJcWyKq1mbPJ,2020-05-01,25,320357,0.613,0.0194,0.697,0.0,0.332,0.476,-8.618,0.133,122.746,2,4,happy
+38,Don't Start Now,Future Nostalgia,Dua Lipa,3PfIrDoz19wz7qK7tYeu62,2020-03-27,85,183290,0.793,0.0123,0.793,0.0,0.0951,0.679,-4.521,0.083,123.95,11,4,happy
+39,Time Is Now,Catalogue,Moloko,7xG0XZhUxTu6Axewwq0jfN,2006-07-17,60,222226,0.7,0.436,0.729,0.00209,0.0967,0.735,-10.157,0.0878,127.988,9,4,happy
+40,My Head & My Heart,Heaven & Hell,Ava Max,1KixkQVDUHggZMU9dUobgm,2020-09-18,89,174760,0.614,0.0697,0.934,0.0,0.121,0.436,-3.709,0.07,116.001,9,4,happy
+41,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Toast to Our Differences (Deluxe Edition),Rudimental,20ZP3Om9DvDazXrNUC7WM2,2019-01-25,70,211760,0.654,0.188,0.798,0.0,0.15,0.574,-4.084,0.0451,92.207,0,4,happy
+42,Want to Want Me,Everything Is 4,Jason Derulo,7oGZAicScQt96OAW4AruYy,2015-05-29,77,207719,0.775,0.00906,0.68,0.0,0.109,0.656,-5.508,0.0629,114.025,0,4,happy
+43,Stars,Stars (Collector's Edition),Simply Red,75CgD6l7K4qMzZrn4CbZqz,1991,71,248599,0.716,0.154,0.818,0.000806,0.236,0.817,-7.456,0.0256,103.668,7,4,happy
+44,Let’s Go Home Together - Luca Schreiner Remix,Let’s Go Home Together (Luca Schreiner Remix),Ella Henderson,5e2xEGaXgasL9mXvjT06Ij,2021-02-18,44,170666,0.515,0.0345,0.602,0.0,0.075,0.463,-4.627,0.14,92.389,0,4,happy
+45,Rewrite The Stars,Happy Songs,Various Artists,29QPs69bQuXGRUqYDsR16d,2020-05-01,24,218293,0.669,0.237,0.741,0.0,0.465,0.576,-4.991,0.0393,125.941,10,4,happy
+46,Anywhere,Anywhere,Rita Ora,7EI6Iki24tBHAMxtb4xQN2,2017-10-20,67,215064,0.628,0.0364,0.797,0.0,0.104,0.321,-3.953,0.0596,106.93,11,4,happy
+47,Keeping Your Head Up,Beautiful Lies,Birdy,6lyjWvSUgYtX26zfrQ6gn8,2016-03-25,46,208395,0.599,0.156,0.78,0.0,0.189,0.529,-5.033,0.0527,122.077,11,4,happy
+48,Dreams - 2004 Remaster,Rumours (Super Deluxe),Fleetwood Mac,0ofHAoxe9vBkTCp2UQIavz,1977-02-04,86,257800,0.828,0.0644,0.492,0.00428,0.128,0.789,-9.744,0.0276,120.151,0,4,happy
+49,Praise You - Radio Edit,Why Try Harder - The Greatest Hits,Fatboy Slim,2tn9zXqIZJbgL1swqwOktz,2006-06-18,66,227973,0.622,0.0403,0.884,0.371,0.282,0.561,-6.715,0.0467,109.722,1,4,happy
+50,High Hopes,Happy Songs,Various Artists,6U11pOdpUzykLLVpqWyi52,2020-05-01,25,192133,0.519,0.221,0.908,0.0,0.0673,0.703,-2.733,0.0668,164.061,5,4,happy
+51,Castle on the Hill,÷ (Deluxe),Ed Sheeran,6PCUP3dWmTjcTtXY02oFdT,2017-03-03,79,261153,0.461,0.0232,0.834,1.14e-05,0.14,0.471,-4.868,0.0989,135.007,2,4,happy
+52,Sweet Time,Sweet Time,Ward Thomas,1dxuoZ9A3AygoHJT4hOBRu,2020-07-30,35,192546,0.664,0.0841,0.591,0.0,0.0882,0.725,-5.369,0.0405,119.829,10,4,happy
+53,Hungry Like the Wolf - 2009 Remaster,Rio (Collector's Edition),Duran Duran,39lSeqnyjZJejRuaREfyLL,1982-05-10,73,220626,0.691,0.0433,0.812,1.16e-06,0.299,0.685,-7.772,0.0558,127.568,0,4,happy
+54,Wow,Step Back in Time: The Definitive Collection,Kylie Minogue,1KmqJunkjyiMCrXqZ5uu6q,2019-06-28,26,190973,0.654,0.151,0.884,0.000268,0.379,0.851,-5.466,0.202,124.072,9,4,happy
+55,One Week,Happy Songs,Various Artists,0Hn4KYD9on70pBar7UaQkz,2020-05-01,22,169760,0.702,0.00854,0.898,0.000154,0.0917,0.731,-6.003,0.0373,112.846,9,4,happy
+56,You Can't Hurry Love - 2016 Remaster,"Hello, I Must Be Going! (Deluxe Edition)",Phil Collins,4YwbSZaYeYja8Umyt222Qf,1982-11-05,77,175746,0.62,0.0261,0.936,0.0,0.0679,0.763,-4.593,0.0308,97.527,7,4,happy
+57,Bad Day,Daniel Powter,Daniel Powter,0mUyMawtxj1CJ76kn9gIZK,2005-02-22,77,233640,0.599,0.448,0.785,0.00336,0.151,0.52,-4.013,0.0309,140.046,3,4,happy
+58,Skinny Genes,Eliza Doolittle,Eliza Doolittle,1kYwPA6nQk0qGUeGi6Ccsi,2010,31,185186,0.776,0.608,0.836,0.00075,0.22,0.962,-6.984,0.0541,133.521,6,4,happy
+59,Kiss,Parade - Music from the Motion Picture Under the Cherry Moon,Prince,62LJFaYihsdVrrkgUOJC05,1986-03-31,74,226240,0.898,0.0135,0.271,0.00138,0.0461,0.742,-12.238,0.091,111.485,7,4,happy
+60,(Sittin' On) the Dock of the Bay,The Dock of the Bay (Mono),Otis Redding,3zBhihYUHBmGd2bcQIobrF,1968,75,163755,0.769,0.684,0.367,1.62e-05,0.081,0.535,-11.226,0.0312,103.621,2,4,happy
+61,The Look,Look Sharp!,Roxette,79LdvxXi5JYUjhnO7v9Fi3,1988-10-19,59,237320,0.634,0.0531,0.838,8.34e-06,0.0522,0.541,-5.363,0.0413,95.011,2,4,happy
+62,Everywhere - 2017 Remaster,Tango In the Night (Deluxe Edition),Fleetwood Mac,254bXAqt3zP6P50BdQvEsq,1987-04-13,78,226653,0.73,0.258,0.487,0.01,0.0852,0.731,-10.991,0.0303,114.965,4,4,happy
+63,You Sexy Thing,Happy Songs,Various Artists,3V5HDvMiECiySDN1r2FCGa,2020-05-01,20,244920,0.791,0.523,0.733,0.0016,0.167,0.962,-5.465,0.0633,105.853,5,4,happy
+64,Hand in My Pocket - 2015 Remaster,Happy Songs,Various Artists,0yasnwmfOHJt0aIZ7J9zoJ,2020-05-01,22,222013,0.657,0.135,0.655,0.00306,0.102,0.668,-8.3,0.0248,92.259,0,4,happy
+65,Weekend Vibe,Weekend Vibe,Jubël,5c0lWlmIyCq7hzBhpZasYL,2021-01-15,70,166909,0.688,0.00912,0.742,1.37e-06,0.186,0.74,-6.363,0.0496,110.026,5,4,happy
+66,Happiness,Young Dumb Thrills,McFly,5ncAUjwu5nPd2xMoHPNvPZ,2020-11-13,53,194266,0.597,0.000953,0.8,0.0,0.213,0.904,-7.132,0.0299,104.974,5,4,happy
+67,"10,000 Hours (with Justin Bieber)","10,000 Hours (with Justin Bieber)",Dan + Shay,2wrJq5XKLnmhRXHIAf9xBa,2019-10-04,85,167693,0.654,0.153,0.63,0.0,0.111,0.43,-4.644,0.0259,89.991,10,4,happy
+68,One Call Away,Nine Track Mind,Charlie Puth,7soJgKhQTO8hLP2JPRkL5O,2016-01-29,67,194453,0.667,0.403,0.613,0.0,0.115,0.47,-5.353,0.0344,91.024,1,4,happy
+69,Friends,Glorious,Ella Henderson,18RdChpgvaAO7GXDjLks2B,2019-11-08,69,178298,0.747,0.198,0.537,1.26e-05,0.18,0.453,-5.76,0.0413,97.056,10,4,happy
+70,Sugar (feat. Francesco Yates),Sugar,Robin Schulz,5tf1VVWniHgryyumXyJM7w,2015-09-25,78,219043,0.636,0.0185,0.815,0.0,0.163,0.636,-5.098,0.0581,123.063,5,4,happy
+71,Post Malone (feat. RANI),Post Malone (feat. RANI) [Joe Stone Remix],Sam Feldt,36orMWv2PgvnzXsd5CJ0yL,2019-08-16,73,174444,0.59,0.0771,0.642,0.0,0.105,0.651,-3.87,0.122,107.356,7,4,happy
+72,Sing,x (Deluxe Edition),Ed Sheeran,6K8qKeWo5MsFED7wCR6Kop,2014-06-21,71,235382,0.818,0.304,0.67,1.22e-06,0.0601,0.939,-4.451,0.0472,119.988,8,4,happy
+73,Symphony (feat. Zara Larsson),What Is Love? (Deluxe Edition),Clean Bandit,72gv4zhNvRVdQA0eOenCal,2018-11-30,75,212733,0.715,0.239,0.605,1.41e-05,0.189,0.454,-5.128,0.0428,122.956,0,4,happy
+74,BED,BED,Joel Corry,0siYMEsGrzzzlWLXK5zJfS,2021-02-26,84,178087,0.671,0.0142,0.782,0.00221,0.333,0.618,-4.593,0.0341,123.989,6,4,happy
+75,Higher (feat. iann dior),Higher (feat. iann dior),Clean Bandit,4OoYfejHABzYe2mG8p5s8b,2021-01-29,78,203953,0.716,0.336,0.736,1.4e-05,0.137,0.542,-5.18,0.0363,104.018,1,4,happy
+76,Take You Dancing,Take You Dancing,Jason Derulo,59qrUpoplZxbIZxk6X0Bm3,2020-07-22,87,190306,0.789,0.0332,0.711,0.0,0.0876,0.753,-4.248,0.041,112.985,2,4,happy
+77,Perfect to Me,Perfect to Me,Anne-Marie,0DC7Zs2qvAbNK1owWQ4mlL,2018-11-02,69,197853,0.604,0.0889,0.546,0.0,0.0734,0.402,-5.691,0.151,179.847,8,4,happy
+78,I'll Be There,Always in Between (Deluxe),Jess Glynne,4r1CoAATVuxag55Ct3Y1aX,2018-10-12,70,194386,0.627,0.0288,0.858,0.0,0.199,0.399,-3.116,0.0394,100.074,7,4,happy
+79,Black Hole,Black Hole,Griff,6xw8ld1ztoCKifwTN6uGDq,2021-01-18,68,200523,0.878,0.142,0.64,0.0,0.0981,0.658,-5.641,0.0591,124.069,0,4,happy
+80,Just the Way You Are,Doo-Wops & Hooligans,Bruno Mars,7BqBn9nzAq8spo5e7cZ0dJ,2010-10-05,83,220733,0.637,0.0151,0.843,0.0,0.0876,0.434,-5.413,0.0432,109.012,5,4,happy
+81,Ain't Nobody,80s Smash Hits,Various Artists,5u7O68q6fA1cmkLsryD6i6,2020-05-22,22,280853,0.8,0.189,0.878,0.000104,0.14,0.816,-7.109,0.0434,104.282,1,4,happy
+82,Never Gonna Give You Up,The Best of Me,Rick Astley,6VPOVkex1tTqsMlMyH8Ebf,2019-12-29,34,214720,0.73,0.117,0.988,3.6e-05,0.103,0.909,-5.43,0.043,113.322,8,4,happy
+83,Let's Dance - 2002 Remaster,Let's Dance,David Bowie,4cVHMHgmWgudD399ZdhQ3L,1983,65,247600,0.654,0.00535,0.641,0.00321,0.209,0.794,-9.771,0.0482,114.696,8,4,happy
+84,I Love You Always Forever,90s Smash Hits,Various Artists,7cl3S5vJvwwEsAs4hxgRaR,2020-05-22,35,239960,0.744,0.624,0.453,0.407,0.0898,0.123,-11.977,0.0349,103.773,5,4,happy
+85,Sitting Down Here,90s Smash Hits,Various Artists,2uMNf6VxIglYcLsZDJCztM,2020-05-22,0,234373,0.764,0.163,0.709,0.0,0.334,0.786,-6.766,0.0347,124.081,2,4,happy
+86,So Young,90s Smash Hits,Various Artists,0lG3QJMUV0EXpMdPRYU3yU,2020-05-22,33,232293,0.637,0.292,0.739,1.82e-05,0.377,0.849,-6.536,0.0291,104.98,7,4,happy
+87,I Wanna Be the Only One (feat. Bebe Winans),90s Smash Hits,Various Artists,1NCYzpQtE1Hb78bQovBkqP,2020-05-22,32,216693,0.627,0.473,0.766,0.0,0.126,0.811,-7.774,0.0642,100.072,6,4,happy
+88,Music,Music,Madonna,2fzykVsO2Di5jnofUNX3YE,2000-09-19,60,225973,0.736,0.00149,0.802,0.0876,0.14,0.871,-8.527,0.0663,119.854,7,4,happy
+89,Greek Tragedy - Oliver Nelson TikTok Remix,Greek Tragedy (Oliver Nelson TikTok Remix),The Wombats,64rqvMhAPLLEag310IG3z9,2021-01-15,73,306428,0.736,0.222,0.764,0.00154,0.192,0.404,-6.736,0.0482,112.033,8,4,happy
+90,Pure Shores,Saints & Sinners,All Saints,6ZLGthToczpvnL5Eoy6yrY,2000-08-16,64,268746,0.631,0.0498,0.664,0.00042,0.0696,0.407,-9.197,0.0242,100.618,6,4,happy
+91,Haven't Met You Yet,Crazy Love,Michael Bublé,4fIWvT19w9PR0VVBuPYpWA,2009-10-06,72,244586,0.615,0.152,0.733,0.0,0.109,0.796,-4.808,0.0335,122.58,8,4,happy
+92,Kids,Light Years,Kylie Minogue,1IPRqw2UOJbOPrUhUd49IN,2000-09-25,50,260026,0.534,0.00761,0.872,0.0,0.531,0.425,-4.92,0.272,184.62,2,4,happy
+93,Paradise,Mylo Xyloto,Coldplay,6nek1Nin9q48AVZcWs9e9D,2011-10-24,81,278719,0.449,0.0509,0.585,8.75e-05,0.0833,0.212,-6.761,0.0268,139.631,5,4,happy
+94,Good Feeling,Wild Ones,Flo Rida,2LEF1A8DOZ9wRYikWgVlZ8,2012-06-22,77,248133,0.706,0.0588,0.89,0.00286,0.306,0.684,-4.444,0.0688,128.011,1,4,happy
+95,Pumpin Blood,We Are Only What We Feel,NONONO,7ti4qMC7xYQeh1uRzj5XuM,2014,56,209485,0.618,0.000469,0.848,0.522,0.189,0.413,-4.36,0.0279,118.998,7,4,happy
+96,Don't Be so Hard on Yourself,I Cry When I Laugh,Jess Glynne,7mvgT1SYL3ka3LBJOuA1k9,2015-08-21,41,211460,0.571,0.0608,0.815,0.0,0.163,0.664,-3.267,0.0321,120.008,6,4,happy
+97,Boom Clap,SUCKER,Charli XCX,094RugjgLW6CdPLOJctBZ3,2015-02-09,65,169866,0.659,0.154,0.911,0.000304,0.191,0.576,-2.28,0.0786,91.999,4,4,happy
+98,Tongue Tied,Never Trust a Happy Song,Grouplove,0GO8y8jQk1PkHzS31d699N,2011-09-02,83,218013,0.56,0.00847,0.936,0.0,0.161,0.371,-5.835,0.0439,112.96,3,4,happy
+99,Silvertongue,Home of the Strange,Young the Giant,0yTJtxZJ5VLfBEHhiNUNeY,2016-08-12,65,197426,0.673,0.00975,0.789,0.0,0.752,0.841,-4.288,0.0408,100.043,0,4,happy
+0,"i hate u, i love u (feat. olivia o'brien)",us,gnash,7vRriwrloYVaoAe3a9wJHe,2016-03-25,81,251033,0.492,0.687,0.275,0.0,0.101,0.18,-13.4,0.3,92.6,6,4,sad
+1,Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,84,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4,sad
+2,Breathe Me,Colour The Small One,Sia,7jqzZyJJLrpkRFYGpkqSK6,2004-01-01,68,272800,0.552,0.0364,0.643,0.74,0.105,0.212,-7.36,0.0327,120.012,0,4,sad
+3,Stay With Me,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,62NVyyEBiRxGae3SeB97nl,2015-11-06,0,172723,0.453,0.521,0.441,0.000135,0.106,0.184,-6.275,0.0435,84.672,0,4,sad
+4,Better in Time,Spirit,Leona Lewis,2iXBZ32Fz5VDCLeE0JIdX5,2007,70,234173,0.584,0.512,0.7,2.43e-05,0.13,0.549,-4.251,0.0506,163.953,6,4,sad
+5,I Won't Give Up,I Won't Give Up,Jason Mraz,05pKAafT85jeeNhZ6kq7HT,2012-01-03,68,240165,0.585,0.694,0.303,0.0,0.115,0.142,-10.058,0.0398,136.703,4,3,sad
+6,Tonight I Wanna Cry,Greatest Hits,Keith Urban,0BHNSNcbTxQSwxXNnr9oUw,2007-01-01,49,259733,0.557,0.874,0.385,0.0,0.175,0.148,-7.835,0.0262,103.73,7,4,sad
+7,Love You Goodbye,Made In The A.M. (Deluxe Edition),One Direction,1ZWLWVqeEMWMKTlteS0yLH,2015-11-13,70,196933,0.546,0.0928,0.657,0.0,0.119,0.361,-4.787,0.0332,133.188,1,4,sad
+8,So Cold,Graffiti,Chris Brown,2vPwzseohUUANWMGdQhkb3,2009-12-08,0,218853,0.542,0.08,0.722,1.76e-06,0.118,0.311,-5.8,0.114,178.008,11,4,sad
+9,Cry Me a River,Justified,Justin Timberlake,7Lf7oSEVdzZqTA0kEDSlS5,2002-11-04,75,288333,0.624,0.577,0.654,0.0,0.104,0.564,-6.582,0.183,73.898,8,4,sad
+10,Never Be Alone,Never Be Alone,Shawn Mendes,4k5FaS9QHmeJNu7kDNkLnO,2015-02-10,0,215840,0.387,0.461,0.473,5.04e-05,0.0839,0.261,-6.93,0.0345,200.764,10,4,sad
+11,Wanted,Hunter Hayes (Encore),Hunter Hayes,0f1svjHSiaCJif6noKKVHa,2011,57,228840,0.421,0.268,0.476,0.0,0.0816,0.3,-7.692,0.0298,169.784,0,4,sad
+12,Make You Feel My Love,19,Adele,7rPLZ8Krm6CZIbraFUlnWZ,2008-01-28,0,212040,0.325,0.91,0.18,0.000633,0.113,0.0997,-10.647,0.0311,72.416,10,1,sad
+13,Bleeding Love,Spirit,Leona Lewis,7wZUrN8oemZfsEd1CGkbXE,2007,78,262466,0.638,0.188,0.656,0.0,0.146,0.225,-5.886,0.0357,104.036,5,4,sad
+14,When I Look At You,The Time Of Our Lives (International Version),Miley Cyrus,6ZfXA2xakAvphXOSOJ3u1W,2009-01-01,77,248586,0.459,0.142,0.545,0.0,0.105,0.194,-4.874,0.0282,137.941,6,3,sad
+15,Adore You,Bangerz (Deluxe Version),Miley Cyrus,5AnCLGg35ziFOloEnXK4uu,2013-10-04,71,278746,0.583,0.111,0.655,3.57e-06,0.113,0.201,-5.407,0.0315,119.759,0,4,sad
+16,Superficial Love,The Intro,Ruth B.,5hwh37sTi84MVhCBMWzhGE,2015-11-27,71,207973,0.477,0.928,0.242,0.0,0.0818,0.488,-9.162,0.0529,43.509,8,4,sad
+17,Stone Cold,Confident (Deluxe Edition),Demi Lovato,3ioJ2eGWcONEvna37MpsiE,2015-01-01,0,191307,0.41,0.5,0.462,0.0,0.0975,0.354,-7.534,0.0515,139.861,8,3,sad
+18,When We Were Young,When We Were Young,Adele,7ilS0BPWS8ek2P2GaxH3cP,2016-02-05,21,290900,0.377,0.303,0.595,0.0,0.095,0.264,-5.936,0.0489,144.464,3,4,sad
+19,Build You Up,Build You Up,Kim Taylor,0CnUXlmzwl5QfA61FPSlH6,2008-10-10,38,204880,0.502,0.914,0.176,0.0702,0.0962,0.0929,-11.648,0.0306,61.143,10,4,sad
+20,River Of Tears,Know-It-All (Deluxe),Alessia Cara,3ArYVrRb0lDBLzuJJqIXzC,2016-03-11,64,254506,0.389,0.928,0.373,0.0,0.146,0.283,-5.72,0.047,90.289,6,4,sad
+21,All We Do,Oh Wonder,Oh Wonder,6ZeWGilCAL4sgnPWlCYyaj,2015-09-04,0,214174,0.586,0.979,0.237,7.49e-05,0.0921,0.366,-11.676,0.049,126.751,10,4,sad
+22,Impossible,No Gravity,Shontelle,45EDI3rk0f4cAMt9f8b56R,2010-01-01,69,226533,0.599,0.385,0.624,0.0,0.125,0.539,-3.631,0.0343,90.034,8,4,sad
+23,So Sick,In My Own Words,Ne-Yo,6brl7bwOHmGFkNw3MBqssT,2006-01-01,78,207186,0.452,0.246,0.574,0.0,0.189,0.58,-8.336,0.31,92.791,6,4,sad
+24,Sign of the Times,Harry Styles,Harry Styles,5Ohxk2dO5COHF1krpoPigN,2017-05-12,83,340706,0.516,0.0275,0.595,0.0,0.109,0.222,-4.63,0.0313,119.972,5,4,sad
+25,No Air (feat. Chris Brown),Jordin Sparks,Jordin Sparks,519tXYJVcrpEMqV2BMbh6E,2007-11-20,0,264373,0.466,0.0521,0.759,0.0,0.0587,0.328,-4.978,0.199,160.033,8,4,sad
+26,How Do I Breathe,How Do I Breathe,Mario,7hijz8il3sNScfNUOKeomX,2007,32,256386,0.635,0.317,0.479,0.0,0.0935,0.582,-8.271,0.0525,97.843,5,4,sad
+27,Make Me (Cry),Make Me (Cry),Noah Cyrus,2BrzlUj1u1CtvaJDGIKpsP,2016-11-15,69,242081,0.588,0.592,0.471,0.00146,0.0733,0.209,-7.287,0.0577,152.881,0,4,sad
+28,Hurts So Good,Astrid S,Astrid S,46ydq5g3k17iLJs3qMDvO6,2016-05-20,78,208728,0.675,0.084,0.609,0.0,0.0957,0.378,-5.027,0.0586,120.039,7,4,sad
+29,Atic,Astrid S,Astrid S,3H9CQYRjYS2bixQXoawh98,2016-05-20,46,214226,0.542,0.051,0.516,8.01e-05,0.0881,0.382,-7.267,0.0417,143.185,10,4,sad
+30,I Don’t Wanna Know,Astrid S,Astrid S,5kNtYmydoA9Dd959vVlKBJ,2016-05-20,43,176093,0.443,0.687,0.285,0.0,0.0861,0.109,-9.25,0.0821,86.786,7,4,sad
+31,Million Reasons,Joanne (Deluxe),Lady Gaga,7dZ1Odmx9jWIweQSatnRqo,2016-10-21,77,205280,0.666,0.494,0.423,0.0,0.106,0.154,-8.012,0.043,129.89,0,4,sad
+32,Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,80,225053,0.63,0.4,0.53,0.0,0.177,0.417,-7.259,0.0434,108.038,0,3,sad
+33,I'm Not The Only One,In The Lonely Hour (Deluxe Edition),Sam Smith,1VbhR6D6zUoSTBzvnRonXO,2014-01-01,0,239316,0.678,0.565,0.491,2.78e-05,0.0772,0.519,-5.815,0.0358,81.997,5,4,sad
+34,This Is What It Takes,Handwritten (Deluxe),Shawn Mendes,4xIZj7JRC3FnGPAjmkhNeW,2015-04-13,0,230440,0.491,0.384,0.324,0.0,0.119,0.324,-6.703,0.0315,81.901,0,4,sad
+35,Save Me,Pink Friday,Nicki Minaj,4dL6PO16Ns1kmvzpj9lTFq,2010-01-01,0,185413,0.448,0.542,0.729,0.0244,0.163,0.586,-6.103,0.13,83.523,6,4,sad
+36,You & I,Midnight Memories (Deluxe),One Direction,2afCBiru10AFckfOa49wIa,2013-11-25,79,237933,0.574,0.22,0.329,0.0,0.0986,0.356,-6.829,0.0274,130.993,1,4,sad
+37,I Was Made For Loving You,Unbreakable Smile,Tori Kelly,3vOmmLuvEUgGaVuRsCs2QF,2015-10-16,67,188939,0.374,0.355,0.344,0.0,0.0966,0.216,-11.94,0.0304,106.415,2,5,sad
+38,She Wouldn't Be Gone,Loaded: The Best of Blake Shelton,Blake Shelton,20xK9pC1cCJKnjtJ37YNOQ,2010-11-08,44,215613,0.509,0.153,0.662,0.0,0.0773,0.231,-4.873,0.0293,160.129,0,4,sad
+39,The A Team,The A Team,Ed Sheeran,2vBF8A6n0REigm7RSUM65S,2011-05-01,26,258588,0.626,0.678,0.286,0.0,0.134,0.366,-9.933,0.0374,84.954,9,4,sad
+40,Video Games - Remastered,Born To Die - The Paradise Edition,Lana Del Rey,0fBSs3fRoh1yJcne77fdu9,2012-01-01,71,281960,0.236,0.811,0.249,1e-06,0.087,0.181,-9.595,0.0348,72.847,6,5,sad
+41,Happier,÷ (Deluxe),Ed Sheeran,2RttW7RAu5nOAfq6YFvApB,2017-03-03,82,207520,0.522,0.536,0.385,0.0,0.135,0.236,-7.355,0.0288,89.792,0,4,sad
+42,Bruises,Bruises,Lewis Capaldi,3BxzQaXrfoWo1lYLZjJqyD,2017-03-31,0,218492,0.572,0.963,0.319,0.0,0.161,0.359,-6.206,0.0685,110.922,4,4,sad
+43,Silence,Silence,Grace Carter,36HDXw8pu6xTytA8F3vcBi,2017-05-23,0,222096,0.537,0.638,0.585,0.0,0.0862,0.22,-7.753,0.151,172.035,10,4,sad
+44,Can I Be Him,Back from the Edge,James Arthur,0VhgEqMTNZwYL1ARDLLNCX,2016-10-28,79,246880,0.696,0.308,0.543,0.0,0.0939,0.479,-6.164,0.0489,107.969,11,4,sad
+45,Almost Is Never Enough - Soundtrack Version,The Mortal Instruments: City of Bones (Original Motion Picture Soundtrack),Various Artists,6YbDAwAzXrijLm3AQ9nBrv,2013-01-01,28,210200,0.414,0.835,0.285,0.0,0.0798,0.395,-8.644,0.0372,82.544,2,4,sad
+46,Honeymoon Avenue,Yours Truly,Ariana Grande,2ofOe2OaXFpZF5ETbsc7Qu,2013-01-01,59,339733,0.692,0.218,0.608,0.0,0.348,0.449,-5.233,0.041,125.012,8,4,sad
+47,Dear No One,Foreword,Tori Kelly,2wWboDFZJPWXVNlHUbdSVQ,2013-01-01,68,197846,0.627,0.126,0.592,0.0,0.111,0.462,-5.977,0.314,167.882,6,4,sad
+48,I Have Nothing,The Bodyguard - Original Soundtrack Album,Whitney Houston,31er9IGsfFbwqy1pH4aiTP,1992-11-17,74,289160,0.541,0.576,0.401,0.0,0.164,0.24,-10.499,0.0365,152.943,0,3,sad
+49,1-800-273-8255,Everybody,Logic,5tz69p7tJuGPeMGwNTxYuV,2017-05-05,79,250173,0.62,0.569,0.574,0.0,0.19,0.357,-7.788,0.0479,100.023,5,4,sad
+50,Close To You,ANTI,Rihanna,4gFxywaJejXWxo0NjlWzgg,2016-01-28,0,223226,0.494,0.895,0.17,0.0,0.139,0.145,-11.368,0.0337,80.098,10,4,sad
+51,Jealous,Jealous,Labrinth,4L2K7JKseFCBoHMZEAszW0,2014-11-21,38,287693,0.439,0.874,0.153,0.0,0.107,0.104,-8.95,0.0479,116.76,1,3,sad
+52,Not About Angels,Not About Angels,Birdy,5sF7hdYvhrcgNq8NZjfK8L,2014-04-13,75,189475,0.405,0.964,0.111,4.37e-05,0.0872,0.219,-11.879,0.0369,116.86,0,4,sad
+53,A Little Too Much,Handwritten,Shawn Mendes,1T7AiFL9ruKKwlONN35Vh0,2015-04-14,67,187026,0.451,0.473,0.507,0.0,0.108,0.564,-6.24,0.0316,165.76,11,4,sad
+54,Can't Help Falling in Love,Better,Haley Reinhart,6yIHGmQLJxWAUZ1ZkENemN,2016-04-29,73,173174,0.41,0.947,0.0485,0.0,0.108,0.247,-13.918,0.038,137.97,0,4,sad
+55,Just A Little Bit Of Your Heart,My Everything (Deluxe),Ariana Grande,5lvnGiTAH9BVlJLHc0DXZz,2014-08-25,67,232586,0.439,0.692,0.322,0.0,0.103,0.16,-5.959,0.028,77.963,9,4,sad
+56,Make It To Me,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2uCMaUojwuqr8CRGsLoPa6,2015-11-06,64,162732,0.456,0.63,0.379,3.1e-06,0.0983,0.225,-8.573,0.0685,149.967,1,4,sad
+57,Life Is Worth Living,Purpose (Deluxe),Justin Bieber,4yWCzA44dQyp0SoeM81bUb,2015-11-13,63,234786,0.558,0.907,0.296,0.0,0.108,0.463,-9.18,0.0427,76.04,10,4,sad
+58,Turning Tables,21,Adele,5O6yk6U8L3rTbFsIwuqe8H,2011-01-19,32,250133,0.305,0.952,0.452,1.68e-05,0.129,0.21,-6.077,0.0293,79.83,0,4,sad
+59,It Will Rain,It Will Rain,Bruno Mars,4rMNgxEwGWoPHIUcvB5BrB,2011-09-27,63,257847,0.574,0.359,0.824,0.0,0.0816,0.434,-6.885,0.0463,149.981,2,4,sad
+60,To Build A Home,Ma Fleur,The Cinematic Orchestra,3AqPL1n1wKc5DVFFnYuJhp,2007-06-05,70,370666,0.264,0.885,0.128,0.352,0.105,0.0774,-15.443,0.034,148.499,9,4,sad
+61,Chasing Cars,Eyes Open (International Package with bonus live tracks),Snow Patrol,0x6Y6ikSyS17NxfhWsgENm,2006-01-01,1,267960,0.56,0.199,0.595,6.47e-05,0.132,0.144,-4.53,0.0274,104.011,9,4,sad
+62,Lay Me Down,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,64GRDrL1efgXclrhVCeuA0,2015-11-06,76,219535,0.468,0.919,0.19,0.0,0.107,0.326,-11.138,0.0373,125.319,4,4,sad
+63,That Should Be Me,My World 2.0,Justin Bieber,0aPZbnkMoWJaJ5CNVLCj8S,2010-01-01,70,232720,0.552,0.199,0.603,0.0,0.151,0.231,-5.71,0.0334,139.908,8,4,sad
+64,I Fall Apart,Stoney (Deluxe),Post Malone,75ZvA4QfFiZvzhj2xkaWAh,2016-12-09,83,223346,0.556,0.0689,0.538,0.0,0.196,0.291,-5.408,0.0382,143.95,8,4,sad
+65,All I Ask,25,Adele,1wMALZpuqAy7amQsFBWQ8m,2016-06-24,36,271800,0.587,0.882,0.283,0.0,0.149,0.343,-5.473,0.0279,141.961,4,4,sad
+66,Broken,Broken,Lund,79DF4VeuuI0Y7NOrimSmR5,2016-10-26,0,200597,0.827,0.0524,0.599,0.000646,0.108,0.13,-2.046,0.0414,134.003,0,4,sad
+67,Look What You Made Me Do,Look What You Made Me Do,Taylor Swift,2VjtYe7gpfUi2OkGxR2O2z,2017-08-24,0,211859,0.767,0.21,0.671,1.12e-05,0.129,0.474,-6.416,0.142,128.072,9,4,sad
+68,Someone Like You,21,Adele,4kflIGfjdZJW4ot2ioixTB,2011-01-19,45,285040,0.559,0.892,0.33,0.0,0.0975,0.285,-8.251,0.0285,135.109,9,4,sad
+69,The Worst,Sail Out,Jhené Aiko,2wBCrtJS3E3TimRZ5MElTI,2013-01-01,71,254493,0.539,0.253,0.414,1.3e-06,0.143,0.123,-9.156,0.0601,94.895,1,4,sad
+70,Bumper Cars,It's About Us,Alex & Sierra,62UQgDAEzQuKDwa0Lf8wt8,2014-10-06,55,240173,0.428,0.805,0.274,0.0,0.102,0.176,-7.363,0.0394,145.067,3,4,sad
+71,I Found,5AM (Expanded Edition),Amber Run,5zT5cMnMKoyruPj13TQXGx,2015-04-20,76,273000,0.389,0.862,0.302,0.00567,0.104,0.234,-12.485,0.0438,124.956,7,4,sad
+72,Sweater Weather,I Love You.,The Neighbourhood,2QjOHCTQ1Jl3zawyYOpxh6,2013-04-19,90,240400,0.612,0.0495,0.807,0.0177,0.101,0.398,-2.81,0.0336,124.053,10,4,sad
+73,One Last Dance,Public Record,Us The Duo,34p2uL1CvmaHn3uLfOKt8d,2016-12-09,49,224847,0.466,0.979,0.161,0.000238,0.231,0.171,-14.498,0.0492,139.167,7,3,sad
+74,Lost,Call Me Irresponsible,Michael Bublé,6vhYDNMZgffPwcdXdvMqCS,2007-04-30,59,219840,0.518,0.764,0.354,0.00055,0.114,0.315,-9.141,0.029,137.749,11,4,sad
+75,Impossible,James Arthur (Deluxe),James Arthur,5yVIlYEHZxQVLyInCdldoS,2013-11-04,79,209440,0.376,0.135,0.695,0.0,0.11,0.302,-4.782,0.0933,169.533,0,4,sad
+76,Just A Man,The Answers,SoMo,6FO4qmWqhavG6VKMVXQMGA,2017-03-17,46,249440,0.4,0.204,0.461,0.0,0.107,0.264,-6.869,0.0329,116.371,7,3,sad
+77,We Don't Have To Take Our Clothes Off,Ella Eyre,Ella Eyre,48wSJ6NhMFYYB6LjdnPNjM,2015-01-12,62,230711,0.572,0.953,0.231,3.88e-06,0.111,0.332,-6.316,0.0334,96.729,0,3,sad
+78,Like I Can,In The Lonely Hour,Sam Smith,4iOoHmJJiqyTxsXSa5uELv,2014-01-01,0,167065,0.652,0.363,0.632,1.2e-05,0.124,0.484,-6.612,0.0375,99.952,7,4,sad
+79,Unsteady,VHS,X Ambassadors,7lGKEWMXVWWTt3X71Bv44I,2015-06-30,77,193546,0.389,0.178,0.665,0.000732,0.116,0.199,-6.169,0.0644,117.055,0,4,sad
+80,You Said You'd Grow Old With Me,Wide Awake,Michael Schulte,41WTP0gosjYD74B06uS2tL,2012-09-28,70,224743,0.531,0.905,0.347,0.0,0.0935,0.289,-7.044,0.0345,114.441,0,4,sad
+81,Let It Go,Chaos And The Calm,James Bay,13HVjjWUZFaWilh2QUJKsP,2014-12-15,73,260533,0.546,0.818,0.311,1.65e-05,0.107,0.246,-10.396,0.0288,147.464,1,4,sad
+82,The House That Built Me,Revolution,Miranda Lambert,02eD9ymfJOJOhM97HYp5R9,2009-09-24,67,236626,0.515,0.575,0.3,8.46e-06,0.115,0.206,-8.005,0.0289,81.12,5,4,sad
+83,SAD!,SAD!,XXXTENTACION,35ieKju5aLWFN5UgfJ27mL,2018-03-02,3,166568,0.74,0.258,0.613,0.00372,0.123,0.473,-4.88,0.145,75.023,8,4,sad
+84,changes,changes,XXXTENTACION,4PANCoXZX3RaT2D6mqSdEU,2018-03-02,0,121969,0.694,0.883,0.319,0.0,0.095,0.493,-10.061,0.0303,129.797,11,4,sad
+85,Runaway,All My Demons Greeting Me As A Friend (Deluxe Version),AURORA,2GMVFDUyBScHFjYlajlF0A,2016-03-11,0,248826,0.422,0.629,0.302,7.83e-05,0.104,0.123,-9.214,0.0372,114.089,11,4,sad
+86,Soft Skin,Passion & Confusion,Timmies,3rfupJaqyid3F5Fq3WMZp7,2017-09-21,64,117747,0.9,0.844,0.107,0.00454,0.108,0.715,-19.516,0.13,106.074,0,4,sad
+87,Medicine,Wild Youth EP,Daughter,7H8fBamGUheu0DSpp3pj03,2012-01-01,0,258973,0.243,0.115,0.313,0.237,0.593,0.22,-12.069,0.0285,92.975,3,3,sad
+88,Safe Inside,Back from the Edge,James Arthur,5ooilrQAnOJbUjq7IDm8lY,2016-10-28,64,222173,0.317,0.187,0.547,0.0,0.121,0.11,-6.549,0.0366,117.332,8,4,sad
+89,idfc,deadroses,blackbear,6y6jbcPG4Yn3Du4moXaenr,2015-02-14,80,245172,0.63,0.611,0.5,4.04e-05,0.114,0.315,-8.755,0.0611,144.871,1,4,sad
+90,the remedy for a broken heart (why am I so in love),?,XXXTENTACION,4UKCKdYiLN6IMA5ZESUTL7,2018-03-16,84,160184,0.699,0.779,0.304,0.000993,0.137,0.271,-11.192,0.0993,119.705,1,4,sad
+91,before I close my eyes,?,XXXTENTACION,16x9bQHw8TBNaGDyULvwad,2018-03-16,70,99658,0.356,0.976,0.143,1.89e-05,0.111,0.334,-15.148,0.0388,75.522,9,4,sad
+92,Coaster,American Teen,Khalid,39KG4kom3enSx4GTThuDGt,2017-04-27,77,199120,0.441,0.935,0.219,0.0,0.115,0.244,-14.586,0.0419,94.021,8,4,sad
+93,Sorry,hopeless fountain kingdom (Deluxe),Halsey,44n97yHySt0Z9rqPaXgjCK,2017-06-02,77,220540,0.513,0.913,0.25,0.0,0.117,0.351,-9.376,0.0367,74.103,5,4,sad
+94,Doing It Wrong,Take Care (Deluxe),Drake,4eSGSqP2TZvvX0kadZZttM,2011-11-15,69,265120,0.397,0.841,0.172,6.78e-05,0.108,0.123,-15.698,0.0445,101.275,6,4,sad
+95,Medicine,Medicine,Queen Naija,4lFfMRH0YH4pW5gczTDbNC,2018-06-08,70,219135,0.741,0.24,0.37,0.0,0.118,0.13,-8.437,0.324,116.06,8,4,sad
+96,All The Stars,All The Stars,Sofia Karlberg,6By7bdjfyDOXiIjKXLoZ35,2018-02-09,44,248585,0.468,0.932,0.289,0.0,0.108,0.336,-10.788,0.0395,81.952,1,4,sad
+97,FIGURES,Kiddo,Jessie Reyez,3U3J5v3rkx89WnFEQvAJD5,2017-04-21,68,240906,0.6,0.811,0.139,9.5e-06,0.0918,0.256,-8.975,0.0464,171.041,7,3,sad
+98,lovely (with Khalid),lovely (with Khalid),Billie Eilish,0u2P5u6lvoDfwTYjAADbn4,2018-04-19,89,200185,0.351,0.934,0.296,0.0,0.095,0.12,-10.109,0.0333,115.284,4,4,sad
+99,hostage,dont smile at me,Billie Eilish,1WsEgieHsWWndAzLkmV105,2017-12-22,75,229425,0.427,0.868,0.123,3.12e-05,0.0732,0.0394,-15.228,0.0497,129.565,9,5,sad
+0,feelings are fatal,feelings are fatal,mxmtoon,2IWuVe3Ex4vHSpyFEK004P,2017-10-06,0,124853,0.545,0.908,0.169,0.0,0.0942,0.482,-16.249,0.132,98.225,0,4,neutral
+1,Monster,Human,dodie,2MKIadkPrRqaivpyn6cnI0,2019-01-18,63,245847,0.831,0.694,0.606,0.000109,0.0635,0.944,-7.694,0.107,100.013,9,4,neutral
+2,prom dress,prom dress,mxmtoon,0X3a2iLqyGMYi4g2WtUaXu,2019-05-07,0,197933,0.56,0.698,0.674,0.0,0.123,0.421,-6.048,0.0446,119.942,10,4,neutral
+3,Self Control,Animal Kingdom: Shells,Cavetown,0YYX7Acm7nFJLtWFcOWucS,2019-02-28,0,232725,0.666,0.494,0.251,0.0,0.227,0.521,-13.252,0.0465,83.99,8,4,neutral
+4,my way,my way,mxmtoon,0e20e1Y6yUlgLt4IZbOtGt,2019-01-24,0,208618,0.549,0.928,0.122,0.0,0.102,0.431,-14.196,0.0565,115.372,0,5,neutral
+5,We've Never Met but Can We Have a Cup of Coffee or Something,Let's Go,In Love With a Ghost,5cvbog6wen3r3bBbcwL16U,2017-10-23,63,199603,0.349,0.926,0.214,0.121,0.321,0.236,-18.295,0.0538,201.128,6,4,neutral
+6,Once Upon a Time,UNDERTALE Soundtrack,Toby Fox,2LgAG9R8A88DADdpVmZf7V,2016-06-03,1,88966,0.565,0.606,0.335,0.949,0.171,0.321,-13.964,0.0445,131.045,0,4,neutral
+7,Would You Be So Kind,You - EP,dodie,3ZiuxcBeRanTjfHzVBuuQe,2017-08-11,67,180952,0.662,0.156,0.616,0.000222,0.126,0.614,-9.621,0.206,160.071,4,4,neutral
+8,Boys Will Be Bugs,Animal Kingdom: Comet,Cavetown,67EUBsc4qosGOVbaYy6TeX,2018-12-11,3,329049,0.608,0.00387,0.528,1.4e-05,0.106,0.454,-11.722,0.0338,89.221,1,4,neutral
+9,Not What I Meant (feat. Lewis Watson),Human,dodie,47IAJLkYhZag79yvXmT6Lt,2019-01-18,52,143290,0.482,0.792,0.273,0.00223,0.109,0.142,-13.396,0.043,118.952,0,4,neutral
+10,Everything Stays,"Adventure Time, Vol.3 (Original Soundtrack)",Adventure Time,3qPWfq6IOOlHnqxicx5hnL,2019-05-01,0,95058,0.474,0.941,0.105,1.51e-06,0.122,0.34,-17.649,0.0466,129.935,7,3,neutral
+11,Sorry for Not Answering the Phone I'm Too Busy Trying to Fly Away,Let's Go,In Love With a Ghost,3PqWJMsNn4yh9lFqBbYhuE,2017-10-23,55,132413,0.476,0.847,0.161,0.0,0.0331,0.33,-16.368,0.212,96.69,1,5,neutral
+12,Party Tattoos,Party Tattoos,dodie,3UCOHhnYLVw2ODokTTtaka,2018-01-01,53,217700,0.437,0.94,0.206,0.00439,0.107,0.433,-14.173,0.0469,155.05,0,4,neutral
+13,1-800-DATEME,1-800-DATEME,mxmtoon,0j2vKdAbSoLWAwoBrON8dq,2017-08-06,0,114426,0.497,0.967,0.0762,0.0,0.237,0.68,-20.029,0.0992,78.816,0,3,neutral
+14,Michael in the Bathroom,Be More Chill (Original Cast Recording),Various Artists,2NKSdHfJ2j3PnSZUJfXa7J,2015-10-30,50,297573,0.574,0.82,0.372,0.0,0.115,0.425,-7.75,0.0616,118.545,4,4,neutral
+15,Sick of Losing Soulmates,Intertwined - EP,dodie,7a9udNo0GU97xnMAkjLdmE,2016-11-18,51,267300,0.519,0.645,0.275,0.135,0.356,0.113,-15.949,0.0383,75.148,2,4,neutral
+16,Another One of Those Days,Lemon Boy,Cavetown,106N8qaYdcpymlEolAHNER,2018-01-01,0,246041,0.603,0.449,0.546,0.0,0.0851,0.375,-9.365,0.0267,134.966,0,4,neutral
+17,She,Human,dodie,45h4w81P5iJJTSeR0jJUQ8,2019-01-18,71,213611,0.479,0.755,0.154,0.0261,0.11,0.232,-15.051,0.0369,92.457,2,4,neutral
+18,Lemon Boy,Lemon Boy,Cavetown,0ZTjo2BjVAicpu6LRusfeg,2018-01-01,3,272902,0.507,0.184,0.478,1.62e-06,0.0891,0.318,-10.054,0.0396,139.927,4,4,neutral
+19,Burned Out,Human,dodie,2FhTvTUcbTRIxvNmdpjtbw,2019-01-18,55,211940,0.518,0.981,0.14,0.00122,0.104,0.209,-16.925,0.0506,109.75,5,4,neutral
+20,Silly Girl,Rabbit Hearted.,chloe moriondo,3RGVYzHQWQOlHYphHMAaaj,2018-07-31,0,198807,0.48,0.944,0.0436,9.42e-05,0.126,0.133,-22.849,0.0637,79.189,0,1,neutral
+21,the idea of you,the idea of you,mxmtoon,0OJsVQPV5YlHFZP5CePDTb,2017-09-05,0,167925,0.51,0.964,0.0785,1.19e-06,0.136,0.356,-17.999,0.106,172.908,2,4,neutral
+22,Kalmia Kid,Kalmia Kid,chloe moriondo,6w3qUOipi7ir0f0VIsRYk4,2019-04-19,0,239737,0.602,0.486,0.396,0.0,0.0714,0.457,-9.36,0.039,129.942,2,4,neutral
+23,Intertwined,Intertwined - EP,dodie,3uYxmgnOA9lJYAsHyEbbWA,2016-11-18,53,191100,0.433,0.952,0.126,0.223,0.115,0.0782,-20.93,0.0384,88.572,7,3,neutral
+24,Waves,Rabbit Hearted.,chloe moriondo,04nQgeTajwIDg0cYBaVctj,2018-07-31,0,133072,0.488,0.913,0.206,0.0,0.108,0.178,-14.157,0.045,81.457,9,4,neutral
+25,don't play your card,don't play your card,mxmtoon,4R1uDxKVy11TPksAMWA0r5,2018-03-05,0,221422,0.522,0.933,0.11,0.0,0.096,0.434,-18.707,0.182,172.869,11,4,neutral
+26,Fool,Lemon Boy,Cavetown,6iGWH4PRPDwtN9NydaHK8b,2018-01-01,2,233785,0.671,0.0632,0.464,0.073,0.0711,0.131,-9.277,0.149,79.509,1,4,neutral
+27,Secret For The Mad,You - EP,dodie,2Uk0aFqYCtecHL5MCq2we0,2017-08-11,56,197278,0.491,0.992,0.0861,0.0124,0.0932,0.391,-14.991,0.0565,86.038,4,4,neutral
+28,Human,Human,dodie,2yUIjUh9zQCahXZ9dS7D5X,2018-09-21,47,202721,0.665,0.938,0.287,0.149,0.103,0.386,-14.923,0.04,133.924,8,4,neutral
+29,temporary nothing,plum blossom,mxmtoon,0Szyn0SgWSx5z1tw87zbOv,2018-12-07,0,187243,0.556,0.935,0.0887,3.27e-06,0.116,0.198,-18.289,0.0596,78.744,6,4,neutral
+30,Talk to Me,Dear.,Cavetown,7mLIL4OdNdwFcGNlTcWa0c,2018-06-29,0,277327,0.626,0.667,0.323,0.0,0.0605,0.234,-9.607,0.0339,130.086,4,4,neutral
+31,Branded,Sandcastle Kingdoms,NateWantsToBattle,6FgoXztd4u1QXyKzNaeGd4,2017-03-01,49,195737,0.469,0.000358,0.93,0.0,0.301,0.629,-3.605,0.121,182.816,2,4,neutral
+32,Meteor Shower,Cavetown,Cavetown,5dY6DqLGqjHvuFBXTlWsLm,2015-11-09,0,265010,0.513,0.428,0.488,5.01e-05,0.109,0.141,-10.31,0.0328,170.019,5,3,neutral
+33,16 / 04 / 16 (Jack's Song),16​ / ​04​ / ​16,Cavetown,0mGgevCESeu4makwMg14Bh,2016-08-15,0,258012,0.592,0.217,0.361,0.0,0.0852,0.182,-15.159,0.0502,134.907,7,4,neutral
+34,Untitled V.2,Cavetown,Cavetown,6HX3p2ZcRPQmWXef5ZS2cg,2015-11-09,0,206541,0.547,0.158,0.514,0.000131,0.101,0.303,-9.145,0.0253,89.964,2,4,neutral
+35,Arms Unfolding,Human,dodie,6AURpqbH7V45OwiyQBkgpW,2019-01-18,52,95764,0.444,0.993,0.0667,0.00016,0.128,0.318,-15.892,0.0491,82.602,2,3,neutral
+36,His Theme,UNDERTALE Soundtrack,Toby Fox,6494VHRQtM27oZ2nbritfF,2016-06-03,2,125333,0.435,0.436,0.633,0.761,0.249,0.299,-10.502,0.0614,179.968,11,4,neutral
+37,Island Song,Adventure Time: Come Along with Me (Original Soundtrack),Adventure Time,3UltPYuSY57T9BBAtN8w9L,2018-09-04,0,108721,0.734,0.799,0.475,0.0,0.253,0.838,-12.618,0.0359,120.004,9,4,neutral
+38,i feel like chet,i feel like chet,mxmtoon,00qHRkAlOCsjbs8N4hBUH5,2018-11-15,0,183242,0.533,0.913,0.16,0.0,0.113,0.328,-14.947,0.0676,134.853,8,4,neutral
+39,Ready Now,MOOMINVALLEY (Official Soundtrack),Various Artists,1xzIv4LPe57Lgz3ELDOdBE,2019-04-19,57,181969,0.69,0.962,0.051,0.205,0.126,0.318,-20.444,0.0421,110.099,7,3,neutral
+40,When - Live,Intertwined - EP,dodie,5CqXrqDRXfF5jNVwT0nmPF,2016-11-18,49,195000,0.321,0.929,0.179,0.00405,0.108,0.284,-12.934,0.0312,104.674,8,4,neutral
+41,Guiltless,Guiltless,dodie,1UBe9K7MECJJOYd20nwhpl,2019-05-27,51,208033,0.741,0.936,0.307,0.0,0.191,0.538,-12.643,0.0789,144.987,7,4,neutral
+42,Absolutely Smitten,Intertwined - EP,dodie,71SidvkT6LCBHRZI858TsQ,2016-11-18,58,181000,0.667,0.456,0.663,0.00316,0.703,0.507,-10.577,0.0346,118.947,9,4,neutral
+43,6/10,6/10,dodie,6aDyiU2cVrqh33UEnEo3WA,2017-07-07,52,185487,0.262,0.946,0.163,0.0948,0.103,0.0394,-15.949,0.0432,76.501,7,4,neutral
+44,You,You - EP,dodie,1U0nWcWMR1gyHEHBvx5YpW,2017-08-11,51,170975,0.575,0.844,0.66,5.89e-05,0.313,0.714,-12.256,0.211,155.357,10,4,neutral
+45,high & dry,the masquerade (high & dry / prom dress),mxmtoon,7o96u1spqcNwctcM43jrUx,2019-06-27,0,219813,0.587,0.185,0.592,0.0,0.119,0.433,-5.369,0.0408,129.987,7,4,neutral
+46,Flowers,Let's Go,In Love With a Ghost,5VnaOLeK1lKfULuNwet8ck,2017-10-23,67,252121,0.641,0.979,0.24,0.866,0.234,0.32,-19.107,0.047,99.02,8,4,neutral
+47,Sick of Losing Soulmates,Sick of Losing Soulmates,dodie,4hjbxjZpJ8H6qRCzDOGI0M,2016-10-14,64,267360,0.478,0.716,0.241,0.216,0.354,0.11,-17.122,0.0386,75.285,2,4,neutral
+48,If I'm Being Honest,If I'm Being Honest,dodie,6MaknzNd585rY4P4pIyZiv,2018-11-02,41,279324,0.435,0.919,0.191,0.033,0.114,0.193,-12.436,0.0396,112.1,10,4,neutral
+49,imagine if,imagine if,gnash,12gnUTEnxL6PYN06RX2Je1,2018-06-08,0,197216,0.907,0.568,0.452,0.0,0.244,0.691,-6.673,0.187,92.063,8,4,neutral
+50,the broken hearts club,the broken hearts club,gnash,5Cv1xqpyciZZuHHR7xr2l0,2018-03-30,0,184467,0.62,0.801,0.288,0.0,0.344,0.691,-9.431,0.123,100.385,4,4,neutral
+51,Loving Is Easy,Loving Is Easy,Rex Orange County,5EYi2rH4LYs6M21ZLOyQTx,2017-10-11,78,155720,0.756,0.217,0.609,0.00474,0.096,0.537,-7.927,0.0544,117.023,3,4,neutral
+52,Escapism,"Steven Universe, Vol. 2 (Original Soundtrack)",Steven Universe,0NzPPTeda2Wdu2gij81Sxd,2019-04-12,0,121501,0.408,0.965,0.0844,0.0129,0.0993,0.313,-17.051,0.0505,77.839,0,4,neutral
+53,Change Your Mind,"Steven Universe, Vol. 2 (Original Soundtrack)",Steven Universe,03eTN7qaiHC3SbaEDTRE8J,2019-04-12,0,54790,0.451,0.988,0.0154,1.5e-06,0.102,0.13,-20.802,0.0558,88.252,3,1,neutral
+54,Love Like You (Reprise),"Steven Universe, Vol. 2 (Original Soundtrack)",Steven Universe,3ZC1q2xLQnPobQZ1fqO2Ng,2019-04-12,0,191334,0.27,0.485,0.316,9.09e-05,0.0921,0.093,-14.735,0.0462,159.99,3,1,neutral
+55,Familiar,"Steven Universe, Vol. 2 (Original Soundtrack)",Steven Universe,4aGgcRDBNnAgji3bJ6hzbq,2019-04-12,0,152349,0.65,0.727,0.177,0.0,0.0687,0.546,-12.585,0.0538,92.596,3,4,neutral
+56,you were good to me,you were good to me,Jeremy Zucker,6tNgjrWXWHx2zR52Q6qCLG,2019-04-19,0,219173,0.46,0.909,0.0834,1.98e-05,0.112,0.21,-15.095,0.0433,98.329,2,4,neutral
+57,better off,glisten,Jeremy Zucker,7bdYxWPCs46dQ0XLwySOyv,2018-05-04,70,193946,0.708,0.747,0.322,9.24e-05,0.137,0.46,-12.46,0.0371,98.892,8,4,neutral
+58,comethru,comethru,Jeremy Zucker,6fFTPGGItuEpjwXRUIr4rk,2018-09-07,2,181520,0.798,0.603,0.175,0.0,0.625,0.633,-12.603,0.0594,93.994,0,4,neutral
+59,talk is overrated,idle,Jeremy Zucker,7cflqPPi3zWfLFRRBTWeh6,2017-10-27,69,189800,0.776,0.435,0.353,0.0,0.302,0.658,-8.317,0.0687,138.035,4,4,neutral
+60,firefly,"summer,",Jeremy Zucker,2ULvsEVdvPbXERrl3mGEE8,2018-09-28,52,220413,0.738,0.569,0.319,2.48e-05,0.145,0.427,-8.479,0.117,83.017,6,4,neutral
+61,all the kids are depressed,glisten,Jeremy Zucker,75ls0gurX68lUmMjE7QcsE,2018-05-04,79,169973,0.773,0.836,0.437,2.42e-05,0.544,0.707,-8.281,0.0963,103.861,9,4,neutral
+62,Out Of Love,The Pains Of Growing,Alessia Cara,4WzhjxvLP95y7AMDy0Atwb,2018-11-30,79,227693,0.481,0.8,0.267,0.0,0.249,0.137,-9.249,0.0339,117.64,7,3,neutral
+63,We Don't Have To Take Our Clothes Off,We Don't Have To Take Our Clothes Off,Vivid Color,5PacEiW4GT9mLA1d0W95tA,2017-04-28,45,197118,0.534,0.689,0.5,0.0,0.123,0.519,-6.432,0.0262,95.043,6,4,neutral
+64,Hard to Do,Only Ticket Home,Gavin James,0qJeZTmw4jch2kU34szvuR,2018-10-26,42,245866,0.339,0.789,0.359,0.0,0.109,0.195,-7.032,0.0365,77.592,3,4,neutral
+65,Ex - Acoustic,Ex (Acoustic),James TW,5bQrht1GV7Ong9RZ3vxoET,2017-03-31,56,221680,0.753,0.754,0.379,0.0,0.0567,0.567,-5.58,0.0391,130.823,9,4,neutral
+66,T-Shirts - Acoustic,T-Shirts (Acoustic),James Smith,27hauwRp0G2YflSJfkmD3o,2018-08-15,53,195480,0.378,0.844,0.254,0.0,0.111,0.373,-9.021,0.0353,78.978,7,4,neutral
+67,Please Keep Loving Me,Please Keep Loving Me,James TW,78zUxUPvONPgMIt46q5be6,2017-07-28,70,195920,0.537,0.117,0.469,1.78e-06,0.106,0.294,-8.486,0.0764,175.971,5,4,neutral
+68,Idle Town,Sunset Season,Conan Gray,0cXRafInOlc1QH519RXltN,2018-11-16,65,237920,0.606,0.872,0.478,2.02e-05,0.106,0.266,-6.035,0.0276,77.086,7,4,neutral
+69,come out and play,come out and play,Billie Eilish,7wC5eZcFS1Q1BsQ35DU6H4,2018-11-20,72,210375,0.64,0.693,0.321,0.0307,0.114,0.177,-14.604,0.0931,145.045,0,4,neutral
+70,Annabelle's Homework,Narrated For You,Alec Benjamin,0DYRjWiFJHvLjxRrywtltC,2018-11-16,60,192500,0.676,0.701,0.634,1.63e-06,0.223,0.33,-5.377,0.0385,86.004,8,4,neutral
+71,Not Today,Not Today,Alessia Cara,5MSOM0Bz3OJrC0UBy3H62G,2018-11-13,46,156546,0.76,0.0972,0.462,5.29e-06,0.0933,0.169,-6.04,0.123,111.906,6,4,neutral
+72,12:45 - Stripped,12:45 (Stripped),Etham,4edtsBlaX23OPYmhA4R0GP,2018-10-26,65,179013,0.459,0.634,0.214,0.0,0.125,0.397,-10.66,0.0403,163.816,5,4,neutral
+73,when the party's over,when the party's over,Billie Eilish,14JzyD6FlBD5z0wV5P07YI,2018-10-17,17,199931,0.498,0.979,0.104,7.86e-05,0.0895,0.205,-14.08,0.0621,124.001,1,3,neutral
+74,Bruises,Bruises,Lewis Capaldi,7x91w5f5x7UayENcGAP5i2,2017-06-19,56,218492,0.572,0.963,0.319,0.0,0.161,0.359,-6.206,0.0685,110.922,4,4,neutral
+75,The Things We Used to Share,The Things We Used to Share,Thomas Sanders,3v64IAj0C9myTAtDsUAqR3,2017-07-27,56,203582,0.617,0.951,0.39,5.82e-06,0.128,0.381,-8.681,0.062,141.953,0,4,neutral
+76,Because I Had You,Shawn Mendes,Shawn Mendes,7hlhojpax9zg2FNdBLY5ox,2018-05-25,0,142480,0.879,0.32,0.338,0.0,0.312,0.69,-9.753,0.106,102.1,7,4,neutral
+77,Where Were You In The Morning?,Shawn Mendes,Shawn Mendes,51wrmElSLxFzc0vSQPeTxs,2018-05-25,0,200600,0.709,0.557,0.516,0.0,0.0992,0.465,-7.468,0.0615,87.992,7,4,neutral
+78,1950,1950,King Princess,0CZ8lquoTX2Dkg7Ak2inwA,2018-02-23,78,225133,0.6,0.648,0.535,4.7e-06,0.162,0.269,-7.043,0.107,71.912,4,4,neutral
+79,Stronger Than You,"Steven Universe, Vol. 1 (Original Soundtrack)",Steven Universe,3ry3QOTArZPVqduQETTX4m,2017-06-02,0,172636,0.727,0.126,0.543,0.0,0.122,0.482,-7.18,0.053,97.93,8,4,neutral
+80,It's Over Isn't It,"Steven Universe, Vol. 1 (Original Soundtrack)",Steven Universe,4P0yLay4gFvWWKxM6egrn7,2017-06-02,0,138006,0.552,0.868,0.199,0.0,0.107,0.4,-12.192,0.0571,114.94,0,3,neutral
+81,Here Comes a Thought,"Steven Universe, Vol. 1 (Original Soundtrack)",Steven Universe,6bX8I0kg3J6IXWVlyVknh1,2017-06-02,0,202340,0.75,0.423,0.513,0.0,0.0756,0.471,-9.576,0.0876,91.004,0,4,neutral
+82,Love Like You (End Credits),"Steven Universe, Vol. 1 (Original Soundtrack)",Steven Universe,2HD2g1syRNaqanstTj8zfJ,2017-06-02,0,143629,0.641,0.879,0.242,0.0,0.15,0.294,-10.102,0.0304,118.391,0,3,neutral
+83,If I Could Tell Her,Dear Evan Hansen (Original Broadway Cast Recording),Various Artists,6nkcPGa0sr24NFCc5l5UjE,2017-02-03,64,248653,0.584,0.647,0.312,0.0,0.152,0.455,-8.249,0.0405,96.026,4,4,neutral
+84,This Is Home,This Is Home,Cavetown,2TI2fw9FWPeah6N4k1b4NU,2015-08-03,3,226073,0.81,0.56,0.266,1.05e-06,0.0962,0.212,-12.478,0.0407,130.041,7,4,neutral
+85,Falling for U,Falling for U,Peachy!,0sHFw13WH3LtSB3yP8UMYJ,2017-08-14,71,124000,0.516,0.743,0.358,1.3e-06,0.0813,0.397,-12.018,0.424,79.509,8,4,neutral
+86,Crush Culture,Sunset Season,Conan Gray,2sHwSBNDZN2yjCtgwStYt1,2018-11-16,72,204120,0.522,0.146,0.765,0.0,0.0866,0.455,-5.395,0.193,180.065,0,4,neutral
+87,Generation Why,Sunset Season,Conan Gray,79e2GU4RLPjAqnijfvsXYr,2018-11-16,68,219680,0.561,0.347,0.684,2.93e-06,0.122,0.528,-8.235,0.0669,81.977,9,4,neutral
+88,Do It for Her,"Steven Universe, Vol. 1 (Original Soundtrack)",Steven Universe,78TLyC5Nwi70sEeUIMMB9s,2017-06-02,0,138454,0.564,0.859,0.328,4.22e-06,0.166,0.593,-9.782,0.068,72.221,0,3,neutral
+89,Lookalike,Sunset Season,Conan Gray,4K3gM7kzX4POAfrs71HomN,2018-11-16,70,220866,0.434,0.766,0.302,7.63e-06,0.149,0.173,-10.117,0.0378,121.645,10,4,neutral
+90,"Everything Stays (From ""Adventure Time"")",Adventure Time: Themes from Marceline,The Marcus Hedges Trend Orchestra,20BJLckTGhiPYaLQox2D2e,2017-11-04,47,111942,0.518,0.978,0.157,4.65e-05,0.273,0.469,-13.513,0.0318,129.912,7,3,neutral
+91,On the Borderline,On the Borderline,Thomas Sanders,28dYsA8DrhfSiTSHtL5Spc,2018-05-10,42,289332,0.323,0.838,0.451,0.0,0.12,0.451,-7.358,0.028,144.538,7,4,neutral
+92,Life Lesson,Intertwined - EP,dodie,51z8j9rLSj0p5mikST2BCA,2016-11-18,7,22000,0.557,0.967,0.179,0.0,0.115,0.718,-14.374,0.207,171.522,7,3,neutral
+93,Green,Lemon Boy,Cavetown,6FCtVFA2m7j60qnlN1Sxko,2018-01-01,0,270429,0.425,0.257,0.34,0.0,0.117,0.117,-11.208,0.035,134.977,2,3,neutral
+94,Rose's Farewell (Love Like You) - Steven Universe,Rose's Farewell (Love Like You) - Steven Universe,Adriana Figueroa,5CYjBvFXSLPzoHzysAdcFo,2015-08-21,33,156742,0.438,0.883,0.332,7.65e-05,0.321,0.11,-10.841,0.0424,114.144,7,3,neutral
+95,cliché,plum blossom,mxmtoon,2h3Q3wDxLNfBh0yX8d3jib,2018-12-07,67,184272,0.541,0.908,0.208,0.0,0.163,0.65,-17.989,0.368,94.927,1,4,neutral
+96,In The Middle,You - EP,dodie,6BBfG9FiwJhRVMCd9IYl6c,2017-08-11,55,181632,0.823,0.364,0.52,0.00438,0.0772,0.685,-12.873,0.0831,111.025,5,4,neutral
+97,"Won't Say I'm in Love (Mashup) [feat. Terrence Williams, Jamahl Rawls & Foti]","Won't Say I'm in Love (Mashup) [feat. Terrence Williams, Jamahl Rawls & Foti]",Thomas Sanders,66KiIwcSDiucaZTmfto7tH,2018-03-22,48,193722,0.41,0.858,0.277,0.0,0.225,0.428,-10.026,0.0392,112.051,7,4,neutral
+98,21st Century Machine,21st Century Machine,Catie Turner,6zmB3yL7Up4iOqz5P8nBrg,2018-11-22,0,231551,0.549,0.893,0.238,0.0,0.109,0.343,-9.812,0.0405,123.636,1,4,neutral
+99,Theodosia Reprise,Theodosia Reprise,Sara Bareilles,6aWWF20lTBd9KgNc9IRIM2,2018-10-31,43,154727,0.508,0.863,0.214,0.0,0.142,0.089,-7.704,0.0374,102.901,0,3,neutral
+0,Broken Sky,Broken Sky,Agustín Amigó,1PeMTLRYStFk5meDRs79Nq,2020-12-04,53,157164,0.692,0.994,0.0947,0.897,0.107,0.314,-18.27,0.119,112.947,1,4,calm
+1,Alma Azul,Alma Azul,Nylonwings,2eit8XClHzAr2YEcCdq7jq,2020-07-18,48,134430,0.722,0.967,0.203,0.908,0.127,0.197,-12.812,0.0568,89.424,2,4,calm
+2,Distances,Distances,Between the Dots,63iYBQAZDyqQYwf91qG6ZX,2020-12-04,49,185000,0.562,0.939,0.182,0.877,0.112,0.3,-14.46,0.0586,97.842,11,4,calm
+3,Sonata Pathétique,Dramatique Musique Classique,Marcel Depuis,2NCG0u2NT7KceLxCjseW3A,2017-01-02,48,170344,0.71,0.967,0.05,0.806,0.116,0.142,-23.245,0.0566,115.298,11,4,calm
+4,In the Makeup of the Sun - Instrumental Version,In the Makeup of the Sun (Instrumental Version),Christian Wannerwall,2yyUytDg93W9yK40uENJg6,2020-12-06,46,99076,0.516,0.983,0.0553,0.861,0.0971,0.564,-27.568,0.0437,144.728,2,4,calm
+5,Memoria Andaluza,Memoria Andaluza,Agustín Amigó,4cgkESlEVG3qDvKpBeav3J,2019-10-04,49,138519,0.504,0.962,0.292,0.925,0.113,0.192,-15.314,0.0452,144.139,5,3,calm
+6,La Ultima Vez,Alma Azul,Nylonwings,4ohd4Soqh0KVuT3c5wVNs5,2020-07-18,42,130374,0.76,0.953,0.252,0.919,0.112,0.239,-8.869,0.0458,107.741,0,4,calm
+7,HAPPY,HAPPY,Christian Wannerwall,6t8vQr6XnjFXw3d8O1dL2l,2021-01-22,37,130880,0.644,0.959,0.147,0.836,0.106,0.482,-18.745,0.0487,109.318,5,4,calm
+8,Open Sea,Northern Sunrise,Nylonwings,13ZtjZom8d2AJHW3Yz6mDL,2020-06-04,47,125437,0.512,0.878,0.245,0.936,0.111,0.309,-9.747,0.0403,136.542,7,4,calm
+9,Still Singing,Sketches,Paul Noels,1muXndsscKrI4wW6fW0Qph,2021-02-21,31,184058,0.378,0.895,0.112,0.83,0.34,0.123,-20.826,0.0363,148.422,5,4,calm
+10,Three Trees,The Leaf,Anila Mirela,47QCaHdf4ZZl2y43a2K9G8,2017-08-19,44,148235,0.648,0.985,0.179,0.89,0.0959,0.106,-19.273,0.0648,84.997,5,3,calm
+11,Rooms - Instrumental Version,Rooms (Instrumental Version),Christian Wannerwall,3VQgsxMXK7eJYM7WTDUCi1,2021-03-05,30,155374,0.816,0.878,0.335,0.937,0.11,0.638,-13.271,0.0746,130.021,4,4,calm
+12,Gotham (acoustic),Gotham,Claes Nilsson,3bcRe9CcEZ9Dr7JyRoQ7Xb,2019-05-22,41,150550,0.659,0.962,0.223,0.936,0.105,0.296,-12.659,0.0658,99.973,11,4,calm
+13,Abalone,Abalone,Realizer,4BsFiStwfeTryBPrj7Lax1,2019-02-22,39,117823,0.62,0.893,0.257,0.767,0.107,0.184,-17.03,0.0508,118.604,9,3,calm
+14,Solitude,Solitude,Joseph Sullinger,6ci4RuIy9fSpPnZ14y0W3R,2019-04-19,43,167978,0.473,0.987,0.108,0.905,0.105,0.191,-18.716,0.132,110.29,9,3,calm
+15,Against All Odds (Take a Look at Me Now),Against All Odds (Take a Look at Me Now),Georg Erixon,6oXi17SvCJs2BPpqxCMqSF,2021-01-01,44,199899,0.654,0.982,0.217,0.916,0.113,0.409,-14.349,0.0447,115.982,1,4,calm
+16,Raining Slowly,Raining Slowly,Lance Allen,3C2hFxPFsNrnMXW861bnHY,2017-10-10,44,159803,0.527,0.962,0.0261,0.897,0.112,0.354,-17.205,0.0953,71.772,9,4,calm
+17,Alone,Alone,Georg Erixon,3jDkWkQ6idX7igNiTDSTLr,2020-10-09,43,194941,0.699,0.954,0.293,0.914,0.114,0.223,-13.763,0.0362,82.306,4,4,calm
+18,In Trutina,Dramatique Musique Classique,Marcel Depuis,4UMHyDQfz4ynsjVHTLcqRo,2017-01-02,42,167555,0.779,0.929,0.0563,0.775,0.104,0.125,-19.543,0.0538,108.126,5,4,calm
+19,Gone,Gone,Mike Howe,5YNCSvwLPDnNZdJj7AMu0M,2020-02-11,44,201125,0.464,0.856,0.32,0.897,0.16,0.329,-16.314,0.0436,111.823,10,4,calm
+20,Fallen Leaves,Fallen Leaves,Billy-Joe,7eV2nmkSsBfabtyBONub6v,2019-12-27,42,162250,0.56,0.974,0.0321,0.945,0.11,0.14,-22.436,0.0474,80.725,1,4,calm
+21,The Bricklayer's Beautiful Daughter,Returning,Will Ackerman,10PcJgNwEdMwfBXmj2pYBi,2004,42,258399,0.342,0.973,0.0505,0.877,0.118,0.305,-22.377,0.0491,145.936,8,4,calm
+22,(Just Like) Starting Over,(Just Like) Starting Over,Joseph Sullinger,5Noj8PHfYHm7W2LrUn2BEO,2021-01-01,42,211198,0.494,0.97,0.199,0.883,0.11,0.32,-15.544,0.0584,91.65,9,4,calm
+23,In the Evening,In the Evening,Joseph Sullinger,4wGSqarg8owXgtc6av87iv,2020-02-15,40,230635,0.581,0.955,0.174,0.826,0.108,0.343,-17.039,0.105,121.737,9,3,calm
+24,Anchored,Anecdotes,Tommy Berre,2C8ljtBS09aZN13oyEJQi6,2020-01-31,42,141293,0.517,0.985,0.115,0.946,0.0891,0.19,-16.407,0.0518,144.003,9,5,calm
+25,The Sound of Silence,Art of Acoustic: Soft Instrumental Covers & Classical Guitar,Joseph Sullinger,0IHE30guMa90mZetZHVbuf,2018-06-22,40,184022,0.528,0.982,0.154,0.881,0.101,0.409,-20.521,0.0904,94.091,11,4,calm
+26,Un Día de Noviembre,Un Día de Noviembre,Leo Brouwer,7aqSD3cqGkEdDYJQ5lUZaR,2018-10-12,42,188400,0.576,0.98,0.221,0.843,0.113,0.268,-16.14,0.12,98.226,9,3,calm
+27,Long for Winter,Long for Winter,Maneli Jamal,7cP4DnRFLFpCDvtkXvEhIs,2020-08-28,40,144498,0.702,0.966,0.166,0.749,0.118,0.336,-14.641,0.0566,114.956,9,4,calm
+28,We Made It,The Lamaj Movement,Maneli Jamal,5Om0sASnaXQ5BMlYhrrMpi,2012-05-20,41,239109,0.484,0.961,0.0701,0.516,0.0917,0.309,-19.335,0.0586,114.539,6,3,calm
+29,August,August,Denis Turbide,2U4DKuVGB8sgRW1e6nzkJI,2018-05-28,41,172916,0.57,0.934,0.175,0.894,0.122,0.463,-19.271,0.0483,144.236,11,4,calm
+30,Canción de Cuna,Classic Williams -- Romance of the Guitar,John Williams,3RgMQEnSHXSOun38D84vu7,1984,40,235573,0.389,0.992,0.0238,0.935,0.119,0.0946,-29.695,0.0424,72.957,2,3,calm
+31,Mi Amor,Mi Amor,Joseph Sullinger,4nL38vNkLiYCMsFl1HZYFN,2020-10-02,40,184830,0.581,0.981,0.131,0.908,0.119,0.152,-15.121,0.0856,73.409,11,4,calm
+32,(They Long to Be) Close to You,(They Long to Be) Close to You,Joseph Sullinger,1B8Bh2St9H4LW11oGZnv7x,2021-02-05,43,152948,0.595,0.961,0.224,0.923,0.113,0.279,-16.608,0.1,92.445,7,4,calm
+33,Dream of Spain,Anecdotes,Tommy Berre,2fXqH5Ha6PYVsix9wYhoGt,2020-01-31,40,135119,0.499,0.954,0.216,0.893,0.112,0.172,-15.71,0.0492,143.268,4,3,calm
+34,Wiseman's View,Winternight,Ken Bonfield,0sQtC2K9Ll85QiBDsus7YD,2017-11-27,38,179786,0.281,0.953,0.218,0.966,0.163,0.222,-19.047,0.0329,104.277,2,4,calm
+35,The River and the Mountain,The River and the Mountain,Maneli Jamal,5RHEWqyahElZpVulOa10t8,2020-05-22,40,124250,0.559,0.871,0.222,0.908,0.12,0.131,-12.971,0.0394,119.516,9,3,calm
+36,Drawn by the Wind (Arr. for Guitar),Drawn by the Wind (Arr. for Guitar),Joseph Sullinger,3xtxmdwm84x0ZDvSOxQels,2020-07-10,39,196487,0.514,0.982,0.239,0.954,0.106,0.338,-14.957,0.101,119.998,2,4,calm
+37,Eye in the Sky (Instrumental),Eye in the Sky (Instrumental),Joseph Sullinger,1K8yqFihi0J5JtoB2xGsbZ,2019-10-14,39,220133,0.738,0.981,0.243,0.896,0.113,0.274,-12.522,0.0542,106.407,2,4,calm
+38,By the Sea,By the Sea,Denis Turbide,3dDoq0jrChxCPE1AFbFW2b,2018-11-09,39,228254,0.691,0.969,0.132,0.888,0.11,0.412,-18.221,0.0557,107.934,7,4,calm
+39,I Met You,I Met You,Traditional,6AAoHxMDqN9sgVcJjqtrg1,2020-11-20,39,151524,0.675,0.96,0.1,0.929,0.108,0.398,-18.26,0.0692,135.003,9,4,calm
+40,Air,Dream Recall,Andy Salvanos,3bVzgBXB7QeTwh5DyMRpP7,2011-12-01,39,152946,0.381,0.951,0.182,0.939,0.109,0.383,-17.227,0.0427,148.524,2,3,calm
+41,Melody Maker,Melody Maker,Lance Allen,2fTUKPfeW51hxbU3VWef0K,2014-06-13,39,237819,0.386,0.937,0.242,0.919,0.113,0.271,-13.111,0.0366,168.963,7,4,calm
+42,Tanglewood Rhyme,Unfurl,Nik Davies,2CMVPsjklkMGXo7KFbEdKo,2019-03-01,37,109750,0.321,0.892,0.53,0.91,0.112,0.377,-10.756,0.0414,140.857,4,4,calm
+43,Recuerdos de Verano,Recuerdos de Verano,Nylonwings,0qQr7wB8b0SzWxFZdEFPe1,2020-04-17,39,154301,0.595,0.866,0.228,0.776,0.14,0.341,-12.743,0.0362,75.552,2,4,calm
+44,Let It Be,Let It Be,Edy Hafler,5d6X0dCNCtpHKOzzxnORTv,2020-11-27,36,181296,0.648,0.975,0.155,0.936,0.0984,0.334,-15.041,0.0559,103.46,11,4,calm
+45,Meet Me by the River,Meet Me by the River,Nylonwings,0vwUMmJe6YogNXye9R9AGn,2020-02-21,40,156608,0.456,0.972,0.193,0.919,0.113,0.368,-16.597,0.0404,155.76,9,4,calm
+46,Hiking,Hiking,Elgafar,6SIeYa1YQ09IbiuaaWb0ht,2020-02-07,38,103346,0.518,0.956,0.212,0.849,0.11,0.489,-18.276,0.0606,120.265,1,3,calm
+47,Comfort in Melancholy,Comfort in Melancholy,Edy Hafler,3UsyQzDf7mjPJA1JEL5l8Y,2019-11-08,38,139629,0.622,0.964,0.253,0.917,0.122,0.575,-16.598,0.0772,77.731,6,4,calm
+48,Shimmer of You,Shimmer of You,Nylonwings,04QbgvmbRYKy9vCxxD38ju,2019-09-13,39,197750,0.724,0.919,0.241,0.824,0.112,0.199,-9.719,0.0444,103.586,9,4,calm
+49,The Shining Barrier,Mind Heart Fingers,Trevor Gordon Hall,3tjQYh1H3c17IQMdd8AIBb,2014-09-15,37,251075,0.373,0.794,0.16,0.764,0.107,0.144,-21.342,0.0407,112.578,10,4,calm
+50,Lazy Days,Lazy Days,Billy-Joe,7gmcGeoM623rgiS99bmwyY,2019-12-17,37,203000,0.693,0.979,0.0756,0.847,0.11,0.0704,-22.704,0.0432,92.837,11,4,calm
+51,Morning at Harper's Mill,Morning at Harper's Mill,Ryohei Shimoyama,4i9WDfCLguWbg2a2sp8fVK,2020-09-25,33,203956,0.403,0.923,0.238,0.916,0.104,0.388,-15.769,0.0389,149.871,9,4,calm
+52,Song for Dax,Daydreamer,Dylan Ryche,1KodSIh2SljFkhrZ2Rn5Fm,2017-02-28,37,199769,0.505,0.885,0.334,0.324,0.0862,0.265,-11.686,0.0405,78.167,9,1,calm
+53,Aube,Aube,Denis Turbide,2qqEWkb0rrXzCtlZwUWGL7,2020-04-10,36,137067,0.526,0.867,0.33,0.658,0.116,0.068,-13.249,0.0333,127.861,4,4,calm
+54,The Odyssey,The Odyssey,Casper Esmann,0yHYKQQCXyosmIPcnCWomb,2019-08-23,37,223424,0.252,0.694,0.291,0.951,0.105,0.146,-16.362,0.0391,78.662,2,4,calm
+55,Sea of Love (Instrumental),Sea of Love (Instrumental),Joseph Sullinger,6cmAW9sgS7b6lLOutowmJC,2019-05-17,36,168752,0.529,0.991,0.0732,0.907,0.102,0.413,-17.985,0.0444,109.451,7,4,calm
+56,Unconditional,Four Guitars,Various Artists,4L9A7Vs63STmCXpzJbN8gn,2019-04-02,37,142173,0.323,0.973,0.165,0.897,0.115,0.122,-19.452,0.0374,97.463,7,3,calm
+57,Scenic Journey,Scenic Journey,Billy-Joe,78WWt5SgfZciql0TL7mydo,2020-06-05,35,206074,0.467,0.956,0.136,0.869,0.184,0.237,-17.695,0.048,135.32,10,3,calm
+58,The Parting Glass,The Parting Glass,Ulli Boegershausen,41nIqbDdOdVar3rdMv9WVf,2019-08-15,35,155776,0.428,0.957,0.196,0.767,0.0829,0.553,-14.789,0.0846,148.683,11,4,calm
+59,While She Sleeps,Wide Open,Agustín Amigó,4m7ClItBJaQlunEXhj6A93,2019-09-20,36,158389,0.473,0.954,0.154,0.948,0.115,0.303,-15.341,0.0375,132.483,3,4,calm
+60,And Here We Are,And Here We Are,Tommy Berre,6w6L7r7rs1l4oA5d8yqZ9k,2020-06-26,35,176235,0.606,0.914,0.285,0.879,0.118,0.266,-12.937,0.0448,137.969,7,4,calm
+61,Fyr,Fyr,Denis Turbide,1jYktswuY4drNCzaLS6K17,2020-02-28,36,125556,0.605,0.9,0.213,0.86,0.105,0.306,-17.474,0.0409,120.078,4,3,calm
+62,Always in My Heart,Always in My Heart,Lance Allen,6HQGfJ7LFyykTYyhbym3NN,2020-09-10,33,180333,0.459,0.836,0.189,0.842,0.155,0.287,-17.071,0.0653,75.176,7,4,calm
+63,Drifting Away,Calm Guitar,Chris Embers,3yNCQLHSazgucuOl4CRfPs,2020-01-31,34,126000,0.293,0.989,0.107,0.939,0.107,0.104,-18.035,0.0549,68.7,6,3,calm
+64,Sullivan's Isle,Sullivan's Isle,Denis Turbide,1EOu2enAQWScFEmwvXoIzs,2020-09-17,34,144875,0.448,0.983,0.096,0.887,0.116,0.223,-19.006,0.0771,178.052,7,4,calm
+65,Meet You Halfway,Meet You Halfway,Alan Shoesmith,1Dq4q53uALtyRwRr8Bqp5Q,2019-08-09,34,157993,0.653,0.977,0.144,0.912,0.111,0.221,-16.017,0.0468,139.8,11,3,calm
+66,The Soldier,ROMANZ,LIBSTOK,1X90BPSoLXpVXet4EugJmv,2019-03-07,34,68198,0.537,0.977,0.15,0.817,0.117,0.584,-17.888,0.0476,161.525,6,4,calm
+67,Morning Has Broken,Morning Has Broken,Mathew Joseph,5cNIXnMvzczG7tGz7JPz7b,2021-01-29,37,222250,0.716,0.98,0.195,0.926,0.197,0.25,-16.176,0.0636,120.2,7,3,calm
+68,Landmark,Landmark,Andrew Gialanella,6rK5G0EI2DEjmDGCeDn0BC,2021-02-05,37,116500,0.71,0.956,0.0916,0.895,0.111,0.34,-19.666,0.153,76.5,6,4,calm
+69,Paralian,"The B Sides, Vol. 1",Edy Hafler,18kcdvSSeSLekJgaSxrFGc,2020-07-10,33,174185,0.529,0.963,0.181,0.822,0.0799,0.409,-14.708,0.0611,110.501,7,3,calm
+70,Vignette,Vignette,Alan Shoesmith,3846iH9dwtj5ZOB45eXbyU,2019-10-18,35,138002,0.631,0.938,0.0809,0.92,0.111,0.336,-20.95,0.0614,70.881,4,4,calm
+71,Winter Milky Way,Winter Milky Way,Ryohei Shimoyama,3QqBxUo3Gy2xdeXt9aioRU,2020-07-24,31,143046,0.301,0.891,0.302,0.88,0.103,0.149,-12.061,0.0543,191.781,2,4,calm
+72,Onio,Onio,Kristoffer Wallin,0jpRIHSt9MadSsTL8Nlblx,2019-06-07,32,132000,0.307,0.976,0.196,0.935,0.104,0.262,-13.442,0.0454,143.211,4,4,calm
+73,Éan an Anro,Éan an Anro,Whalebone,24LZLxTxvgpWtooMwr2O3o,2020-08-28,33,106972,0.638,0.955,0.135,0.932,0.102,0.783,-17.352,0.126,85.651,7,3,calm
+74,All the Light We Cannot See,All the Light We Cannot See,August Flendahl,5zxi0I57Iw84XXJ4KStJpP,2019-08-09,33,152075,0.597,0.946,0.305,0.914,0.11,0.143,-12.719,0.0776,111.859,4,4,calm
+75,Drifting Along Waters,When Dogs Dream,Ross Hammond,0rU4PW612tgLpBfuEfgEF4,2016-11-12,33,103242,0.448,0.94,0.0716,0.911,0.105,0.121,-23.603,0.0804,144.729,7,4,calm
+76,Liliko'i,Liliko'i,Randal L Meek,0AVMUuhIrlWuSl86Xt4ZYG,2020-01-31,35,130352,0.453,0.937,0.214,0.895,0.107,0.622,-17.64,0.0441,105.45,11,4,calm
+77,City of Water,City of Water,August Flendahl,6TuKOZH0XK3o7SQW2DtV6Y,2020-01-03,33,169507,0.7,0.93,0.289,0.813,0.113,0.28,-16.277,0.0427,97.997,8,4,calm
+78,Hide and Seek,Convergences,Antoine Dufour,10rKrinagsnKxlQjgNRDwC,2010-04-27,34,270866,0.622,0.909,0.0996,0.802,0.361,0.178,-14.996,0.098,119.634,9,4,calm
+79,Be Still & Know,Clarity,Mark Kroos,3hP5Whj4x0zxprfHwgqGRL,2017-06-21,33,187245,0.657,0.884,0.0583,0.48,0.118,0.354,-16.043,0.265,125.134,2,4,calm
+80,Rose Door,Rose Door,Open Palm,2uvNaYEDbTJfJ74tWjAvXN,2018-11-16,33,189495,0.389,0.446,0.348,0.791,0.106,0.0891,-10.325,0.0459,170.547,2,4,calm
+81,Aruna,Aruna,August Flendahl,3kRZnYYzts6ksuGfc9W01X,2020-07-03,33,152761,0.72,0.976,0.106,0.891,0.11,0.109,-19.372,0.0495,119.799,11,4,calm
+82,Dark Blue Wind,Four Guitars,Various Artists,7lJAuGIrbdJD28GMtbmuZE,2019-04-02,32,204800,0.298,0.95,0.09,0.912,0.0977,0.0923,-25.264,0.0426,98.314,2,4,calm
+83,Calm Sea,The Road Trip,Billy-Joe,7wUhEwVCjhbPt5apBasNa9,2019-07-31,32,245000,0.36,0.929,0.133,0.922,0.112,0.0362,-20.5,0.0689,179.801,5,3,calm
+84,Daydreamer,Daydreamer,Liad Abraham,0jgkND5MoZfEczL1TAWgSp,2020-03-27,32,144909,0.371,0.919,0.0998,0.621,0.0852,0.104,-18.703,0.0454,108.186,9,4,calm
+85,Alison,Sit Back,Roberto Dalla Vecchia,5ykPBcXdjR0DMBWmg28gsu,2011-10-14,32,237546,0.202,0.916,0.159,0.864,0.114,0.334,-22.558,0.04,90.136,8,4,calm
+86,A Better Tomorrow,Crossings,Roberto Diana,2TiqKlfFviwxL12HuqFZMp,2020-05-29,33,159340,0.653,0.917,0.336,0.863,0.114,0.37,-13.7,0.0362,115.093,3,4,calm
+87,Colors of the Wind,Colors of the Wind,Casper Esmann,2kkJcJUIVaU23UTLM92E0C,2020-05-15,34,267250,0.333,0.899,0.357,0.827,0.101,0.187,-13.1,0.0413,77.284,1,4,calm
+88,Autumn,The River I Step In,Emilio Bonito,72ZDbjPycCMFipVDwzb76j,2019-10-25,33,162110,0.442,0.837,0.399,0.879,0.0925,0.361,-12.827,0.0985,108.776,11,4,calm
+89,Dave's Song,Life on the Deck,Randal L Meek,4wXQabEjnACepHsZ6Kegjm,2018-06-21,33,208413,0.524,0.825,0.282,0.85,0.108,0.173,-10.218,0.0509,145.918,10,4,calm
+90,Ragamuffin,Aerial Boundaries,Michael Hedges,0I4zQbi4OxnlVJ13GKJHGC,1984-06-18,33,193973,0.455,0.799,0.172,0.815,0.105,0.277,-19.418,0.0373,119.656,0,4,calm
+91,Invitation,Invitation (Guitar Version),Chris Embers,2BHWaVHWpxV90ieIDyt0Um,2019-12-06,32,158122,0.405,0.981,0.149,0.938,0.115,0.441,-15.512,0.0525,125.147,2,3,calm
+92,Epilogue,Epilogue (Guitar Version),Chris Embers,5lWvaI8eHRL6KjjCaY3sPV,2019-10-04,31,190651,0.389,0.98,0.18,0.949,0.108,0.564,-15.896,0.0469,111.355,4,4,calm
+93,Unfurl,Unfurl,Nik Davies,4ANxBgssNZoN2aUV945Z3h,2019-03-01,32,197500,0.28,0.925,0.32,0.606,0.112,0.0616,-13.908,0.053,135.648,1,4,calm
+94,Breaking Of The Shells,Fingerdance,Billy McLaughlin,3RFHy77RByVGR0HpMyXnSn,1996-01-01,31,268333,0.44,0.911,0.129,0.76,0.108,0.124,-20.382,0.0526,98.889,6,3,calm
+95,Campfire,Campfire,Matt Tondut,1xndf6Ca1bN07LVBhTTyzi,2020-11-20,32,121055,0.468,0.909,0.232,0.399,0.127,0.498,-17.719,0.0414,110.033,2,3,calm
+96,Spiaggia Deserta,Crossings,Roberto Diana,0dCDs7maKKcNrm7HRUwphK,2020-05-29,32,149400,0.388,0.87,0.291,0.424,0.117,0.226,-14.005,0.0348,151.196,2,3,calm
+97,A Space That's Only Just There,A Space That's Only Just There,Will Moore,5TSSTxrCirc1OzFoubeiij,2017-12-08,31,206511,0.558,0.838,0.173,0.808,0.107,0.22,-15.725,0.0596,79.101,2,4,calm
+98,Watchin' the Big Trees Grow,Watchin' the Big Trees Grow,Randal L Meek,2oJC0uIlMA81GTWaXhdQ9W,2020-10-02,31,125999,0.583,0.822,0.378,0.749,0.105,0.235,-13.234,0.036,106.012,5,4,calm
+99,Nudge,Nudge,Realizer,2vV62tHY8kKaigCVam8qA4,2019-01-25,31,131734,0.576,0.811,0.319,0.925,0.103,0.151,-13.72,0.0328,108.098,4,4,calm
