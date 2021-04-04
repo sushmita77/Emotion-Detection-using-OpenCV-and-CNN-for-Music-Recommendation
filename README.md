@@ -10,3 +10,5 @@ Music Classification: Create the dataset for music classification using Spotipy.
   
     Files: MusicClassification.ipynb, spotify_create_dataset.ipynb
   
+  ![image](https://user-images.githubusercontent.com/13360000/113507894-ff642500-9544-11eb-8dc6-93e190fed6e9.png)
+
