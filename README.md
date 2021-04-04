@@ -6,7 +6,7 @@ Emotion Classification using Open CV and CNN and VGG:
 
     Files: Emotion_Classification.ipynb
 
-Music Classification: Create the dataset for music classification using Spotipy. This will aim to classify music as either Happy, Sad, Neutral and Calm. The classified music will be used in the Emotion detection application. Based on the mood of a person captured through the webcam, songs will be suggested from respective categories.
+Music Classification: Create the dataset for music classification using Spotipy. This will aim to classify music to one of the following categories-> Happy, Sad, Neutral and Calm. The classified music will be used in the Emotion detection application. Based on the mood of a person captured through the webcam, songs will be suggested from respective categories.
   
     Files: MusicClassification.ipynb, spotify_create_dataset.ipynb
   
